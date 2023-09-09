@@ -1,0 +1,762 @@
+[
+    {
+        "identifier": "LOADING",
+        "source_string": "Loading...",
+        "translation": "Caricamento...",
+        "context": " -> LOADING",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "HEADER_FEATURES",
+        "source_string": "Features",
+        "translation": "Funzionalità",
+        "context": " -> HEADER_FEATURES",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "HEADER_DOWNLOAD",
+        "source_string": "Download",
+        "translation": "Scarica",
+        "context": " -> HEADER_DOWNLOAD",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "HEADER_DC_STATUS",
+        "source_string": "DC Status",
+        "translation": "Stato DC",
+        "context": " -> HEADER_DC_STATUS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "HEADER_SOURCE",
+        "source_string": "Source",
+        "translation": "Sorgente",
+        "context": " -> HEADER_SOURCE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "INTRODUCTION_PLACEHOLDER",
+        "source_string": "Are we ready for 2.0.0?",
+        "translation": "Siamo pronti per la 2.0.0?",
+        "context": " -> INTRODUCTION_PLACEHOLDER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "INTRODUCTION_DISCOVER",
+        "source_string": "Discover {0}",
+        "translation": "Scopri {0}",
+        "context": " -> INTRODUCTION_DISCOVER",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "INTRODUCTION_DISCOVER_DESCRIPTION",
+        "source_string": "The open-source alternative Telegram client with all the features you've always wanted.",
+        "translation": "Il client Telegram alternativo open-source con tutte le funzioni che hai sempre desiderato.",
+        "context": " -> INTRODUCTION_DISCOVER_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_TITLE",
+        "source_string": "{0}'s features",
+        "translation": "Funzionalità di {0}",
+        "context": " -> FEATURES_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_UNAVAILABLE",
+        "source_string": "We're working on it. It will be available soon.",
+        "translation": "Ci stiamo lavorando. Sarà disponibile a breve.",
+        "context": " -> FEATURES_UNAVAILABLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_APPEARANCE",
+        "source_string": "Appearance",
+        "translation": "Aspetto",
+        "context": " -> FEATURES_APPEARANCE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_APPEARANCE_DATACENTER_ID",
+        "source_string": "More user details",
+        "translation": "Maggiori dettagli sull'utente",
+        "context": " -> FEATURES_APPEARANCE_DATACENTER_ID",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_APPEARANCE_DATACENTER_ID_SWITCH",
+        "source_string": "Telegram style",
+        "translation": "Stile Telegram",
+        "context": " -> FEATURES_APPEARANCE_DATACENTER_ID_SWITCH",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_APPEARANCE_DATACENTER_ID_DESCRIPTION",
+        "source_string": "Get at a glance the datacenter to which a user belongs and his user ID.",
+        "translation": "Ottieni a colpo d'occhio il datacenter a cui appartiene un utente e il suo ID utente.",
+        "context": " -> FEATURES_APPEARANCE_DATACENTER_ID_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_APPEARANCE_ALTERNATIVE_BUTTONS",
+        "source_string": "Alternative buttons",
+        "translation": "Pulsanti alternativi",
+        "context": " -> FEATURES_APPEARANCE_ALTERNATIVE_BUTTONS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_APPEARANCE_ALTERNATIVE_BUTTONS_DESCRIPTION",
+        "source_string": "You choose the appearance of the buttons to keep up with your tastes and have an interface that is always modern.",
+        "translation": "Puoi scegliere lo stile dei pulsanti che preferisci per rimanere al passo con i tuoi gusti e avere un'interfaccia sempre moderna.",
+        "context": " -> FEATURES_APPEARANCE_ALTERNATIVE_BUTTONS_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_APPEARANCE_EMOJI_SET",
+        "source_string": "Emoji set",
+        "translation": "Pacchetti emoji",
+        "context": " -> FEATURES_APPEARANCE_EMOJI_SET",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_APPEARANCE_EMOJI_SET_DESCRIPTION",
+        "source_string": "Choose the emoji pack you prefer. Obviously, the changes only apply to your client. Others will continue to see what they choose.",
+        "translation": "Scegli il pacchetto di emoji che preferisci. Ovviamente, le modifiche si applicano solo al tuo client. Gli altri continueranno a vedere lo stile che preferiscono.",
+        "context": " -> FEATURES_APPEARANCE_EMOJI_SET_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_FUNCTIONS",
+        "source_string": "Functions",
+        "translation": "Funzioni",
+        "context": " -> FEATURES_FUNCTIONS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_FUNCTIONS_REGISTRATION_DATE",
+        "source_string": "Registration date",
+        "translation": "Data di registrazione",
+        "context": " -> FEATURES_FUNCTIONS_REGISTRATION_DATE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_FUNCTIONS_REGISTRATION_DATE_DESCRIPTION",
+        "source_string": "Find out when your girlfriend created her Telegram account. Unfortunately, in a roundabout way.",
+        "translation": "Scopri quando la tua ragazza ha creato il suo account Telegram. Sfortunatamente, in modo impreciso.",
+        "context": " -> FEATURES_FUNCTIONS_REGISTRATION_DATE_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_FUNCTIONS_MESSAGE_DETAILS",
+        "source_string": "Message details",
+        "translation": "Dettagli dei messaggi",
+        "context": " -> FEATURES_FUNCTIONS_MESSAGE_DETAILS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_FUNCTIONS_MESSAGE_DETAILS_DESCRIPTION",
+        "source_string": "Discover the most secret details of any message in any chat. Simply activate the option from the settings and press on a message.",
+        "translation": "Scopri i dettagli più segreti di ogni messaggio in qualsiasi chat. Attiva semplicemente l'opzione dalle impostazioni e premi su un messaggio.",
+        "context": " -> FEATURES_FUNCTIONS_MESSAGE_DETAILS_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_FUNCTIONS_EXPERIMENTAL_FEATURES",
+        "source_string": "Experimental features",
+        "translation": "Funzioni sperimentali",
+        "context": " -> FEATURES_FUNCTIONS_EXPERIMENTAL_FEATURES",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_FUNCTIONS_EXPERIMENTAL_FEATURES_DESCRIPTION",
+        "source_string": "If you are very curious or you like risks, use our lab functions. Warning: these functions may make your app unstable or may cause it to crash.",
+        "translation": "Se sei molto curioso oppure ti piacciono i rischi, utilizza le funzioni del nostro laboratorio. Attenzione: queste funzioni posso rendere la tua app instabile oppure possono farla crashare più frequentemente.",
+        "context": " -> FEATURES_FUNCTIONS_EXPERIMENTAL_FEATURES_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_DC_STATUS",
+        "source_string": "Datacenter status",
+        "translation": "Stato dei Datacenter",
+        "context": " -> FEATURES_DC_STATUS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FEATURES_DC_STATUS_DESCRIPTION",
+        "source_string": "Stay updated on any lag or internal issues from Telegram. This option is also available online.",
+        "translation": "Rimani aggiornato su qualsiasi lag o problema interno di Telegram. Quest'opzione è anche disponibile online.",
+        "context": " -> FEATURES_DC_STATUS_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ADVANTAGES_TITLE",
+        "source_string": "Always in step",
+        "translation": "Sempre al passo",
+        "context": " -> ADVANTAGES_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ADVANTAGES_DESCRIPTION",
+        "source_string": "A continuously updated client",
+        "translation": "Un client in continuo aggiornamento",
+        "context": " -> ADVANTAGES_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ADVANTAGES_ROWS_1",
+        "source_string": "Always up-to-date with official client functions",
+        "translation": "Sempre aggiornato con le funzioni del client ufficiale",
+        "context": " -> ADVANTAGES_ROWS_1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ADVANTAGES_ROWS_2",
+        "source_string": "Always in line with Telegram's Terms of Service",
+        "translation": "Sempre in linea con i Termini di Servizio di Telegram",
+        "context": " -> ADVANTAGES_ROWS_2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ADVANTAGES_ROWS_3",
+        "source_string": "With support for all Telegram Premium features",
+        "translation": "Con supporto per tutte le funzionalità di Telegram Premium",
+        "context": " -> ADVANTAGES_ROWS_3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "MONET_TITLE",
+        "source_string": "Always like you.",
+        "translation": "Sempre come te.",
+        "context": " -> MONET_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "MONET_DESCRIPTION",
+        "source_string": "Keep scrolling to discover the adaptive theme.",
+        "translation": "Continua a scorrere per scoprire il tema adattivo.",
+        "context": " -> MONET_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "MONET_TRY",
+        "source_string": "Try this theme",
+        "translation": "Prova questo tema",
+        "context": " -> MONET_TRY",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "MONET_FOOTER_TITLE",
+        "source_string": "Ready. Steady. Go.",
+        "translation": "Pronti. Partenza. Via.",
+        "context": " -> MONET_FOOTER_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "MONET_FOOTER_DESCRIPTION",
+        "source_string": "Adaptive theme is only available on Android 12+.",
+        "translation": "Il tema adattivo è disponibile solamente su Android 12+.",
+        "context": " -> MONET_FOOTER_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_SITE_TITLE",
+        "source_string": "Site pages",
+        "translation": "Pagine del sito",
+        "context": " -> FOOTER_SITE_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_SITE_FEATURES",
+        "source_string": "Features",
+        "translation": "Funzionalità",
+        "context": " -> FOOTER_SITE_FEATURES",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_SITE_DOWNLOAD",
+        "source_string": "Download",
+        "translation": "Scarica",
+        "context": " -> FOOTER_SITE_DOWNLOAD",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_SITE_DC_STATUS",
+        "source_string": "DC Status",
+        "translation": "Stato DC",
+        "context": " -> FOOTER_SITE_DC_STATUS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_SITE_CHANGELOG",
+        "source_string": "Changelog",
+        "translation": "Changelog",
+        "context": " -> FOOTER_SITE_CHANGELOG",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_SITE_PRIVACYPOLICY",
+        "source_string": "Privacy Policy",
+        "translation": "Informativa sulla privacy",
+        "context": " -> FOOTER_SITE_PRIVACYPOLICY",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_GITHUB_TITLE",
+        "source_string": "GitHub links",
+        "translation": "Link GitHub",
+        "context": " -> FOOTER_GITHUB_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_GITHUB_CLIENT_SOURCE",
+        "source_string": "Client source",
+        "translation": "Codice sorgente del client",
+        "context": " -> FOOTER_GITHUB_CLIENT_SOURCE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_GITHUB_CLIENT_LICENSE",
+        "source_string": "Client license",
+        "translation": "Licenza del client",
+        "context": " -> FOOTER_GITHUB_CLIENT_LICENSE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_GITHUB_WEBSITE_SOURCE",
+        "source_string": "Website source",
+        "translation": "Codice sorgente del sito web",
+        "context": " -> FOOTER_GITHUB_WEBSITE_SOURCE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_GITHUB_WEBSITE_LICENSE",
+        "source_string": "Website license",
+        "translation": "Licenza del sito web",
+        "context": " -> FOOTER_GITHUB_WEBSITE_LICENSE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_TELEGRAM_TITLE",
+        "source_string": "Telegram links",
+        "translation": "Link Telegram",
+        "context": " -> FOOTER_TELEGRAM_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_TELEGRAM_NEWS",
+        "source_string": "[Channel] News",
+        "translation": "[Canale] News",
+        "context": " -> FOOTER_TELEGRAM_NEWS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_TELEGRAM_APKS",
+        "source_string": "[Channel] Apks",
+        "translation": "[Canale] Apk",
+        "context": " -> FOOTER_TELEGRAM_APKS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_TELEGRAM_BETA_APKS",
+        "source_string": "[Channel] Beta Apks",
+        "translation": "[Canale] Apk Beta",
+        "context": " -> FOOTER_TELEGRAM_BETA_APKS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_TELEGRAM_SUPPORT",
+        "source_string": "[Group] Support",
+        "translation": "[Gruppo] Supporto",
+        "context": " -> FOOTER_TELEGRAM_SUPPORT",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_TEXT_1",
+        "source_string": "Fork or edit this website",
+        "translation": "Effettua il fork o la modifica di questo sito web",
+        "context": " -> FOOTER_TEXT_1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "FOOTER_TEXT_2",
+        "source_string": "Android 12+ wallpapers are copyrighted by Google.",
+        "translation": "Gli sfondi di Android 12+ sono soggetti al copyright da parte di Google.",
+        "context": " -> FOOTER_TEXT_2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_TITLE",
+        "source_string": "Check the Telegram's DataCenter status in real time.",
+        "translation": "Controlla in tempo reale lo stato dei DataCenter di Telegram.",
+        "context": " -> DCSTATUS_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_TITLE_PAGE",
+        "source_string": "DC Status",
+        "translation": "Stato DC",
+        "context": " -> DCSTATUS_TITLE_PAGE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_BUTTON",
+        "source_string": "Reload status",
+        "translation": "Aggiorna lo stato",
+        "context": " -> DCSTATUS_BUTTON",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_SERVER_TITLE",
+        "source_string": "Current status",
+        "translation": "Stato attuale",
+        "context": " -> DCSTATUS_SERVER_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_SERVER_DESCRIPTION",
+        "source_string": "Next update in",
+        "translation": "Prossimo aggiornamento tra",
+        "context": " -> DCSTATUS_SERVER_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_SERVER_ADDRESS",
+        "source_string": "IP Address",
+        "translation": "Indirizzo IP",
+        "context": " -> DCSTATUS_SERVER_ADDRESS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_SERVER_STATUS_ONLINE",
+        "source_string": "Available",
+        "translation": "Disponibile",
+        "context": " -> DCSTATUS_SERVER_STATUS_ONLINE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_SERVER_STATUS_OFFLINE",
+        "source_string": "Offline",
+        "translation": "Offline",
+        "context": " -> DCSTATUS_SERVER_STATUS_OFFLINE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_SERVER_STATUS_SLOW",
+        "source_string": "Slow",
+        "translation": "Lento",
+        "context": " -> DCSTATUS_SERVER_STATUS_SLOW",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_SERVER_LAST_LAG",
+        "source_string": "Last lag",
+        "translation": "Ultimo lag",
+        "context": " -> DCSTATUS_SERVER_LAST_LAG",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_SERVER_LAST_DOWNTIME",
+        "source_string": "Last downtime",
+        "translation": "Ultimo downtime",
+        "context": " -> DCSTATUS_SERVER_LAST_DOWNTIME",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_IDENTIFY_TITLE",
+        "source_string": "Discover your datacenter",
+        "translation": "Scopri il tuo datacenter",
+        "context": " -> DCSTATUS_IDENTIFY_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_IDENTIFY_SELECT",
+        "source_string": "Select your prefix",
+        "translation": "Seleziona il tuo prefisso",
+        "context": " -> DCSTATUS_IDENTIFY_SELECT",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DCSTATUS_IDENTIFY_RAPID",
+        "source_string": "Rapid suggestions",
+        "translation": "Suggerimenti rapidi",
+        "context": " -> DCSTATUS_IDENTIFY_RAPID",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_TITLE",
+        "source_string": "All latest beta and stable client versions.",
+        "translation": "Tutte le ultime versioni beta e stabili del client.",
+        "context": " -> CHANGELOG_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_TITLE_PAGE",
+        "source_string": "Changelog",
+        "translation": "Changelog",
+        "context": " -> CHANGELOG_TITLE_PAGE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_LOADING",
+        "source_string": "Loading versions...",
+        "translation": "Caricamento versioni...",
+        "context": " -> CHANGELOG_LOADING",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_BETA",
+        "source_string": "BETA",
+        "translation": "BETA",
+        "context": " -> CHANGELOG_DOWNLOAD_BETA",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_STATS",
+        "source_string": "{0} files, {1} downloads",
+        "translation": "{0} file, {1} download",
+        "context": " -> CHANGELOG_DOWNLOAD_STATS",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_ARM32",
+        "source_string": "For ARM32 devices",
+        "translation": "Per dispositivi ARM32",
+        "context": " -> CHANGELOG_DOWNLOAD_ARM32",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_ARM64",
+        "source_string": "For ARM64 devices",
+        "translation": "Per dispositivi ARM64",
+        "context": " -> CHANGELOG_DOWNLOAD_ARM64",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_UNIVERSAL",
+        "source_string": "Universal",
+        "translation": "Universale",
+        "context": " -> CHANGELOG_DOWNLOAD_UNIVERSAL",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_X86",
+        "source_string": "For x86 devices",
+        "translation": "Per dispositivi x86",
+        "context": " -> CHANGELOG_DOWNLOAD_X86",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_X86_64",
+        "source_string": "For x86_64 devices",
+        "translation": "Per dispositivi x86_64",
+        "context": " -> CHANGELOG_DOWNLOAD_X86_64",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_SUBTITLE",
+        "source_string": "If you have doubts, you can also use Universal, which is valid for all devices.",
+        "translation": "Se hai dei dubbi, puoi anche utilizzare la versione Universale, valida per tutti i dispositivi.",
+        "context": " -> CHANGELOG_DOWNLOAD_SUBTITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_SUBTITLE_SUGGESTION",
+        "source_string": "The {0} version should be the most suitable and stable one for your device.",
+        "translation": "La versione {0} dovrebbe essere quella più adatta e stabile per il tuo dispositivo.",
+        "context": " -> CHANGELOG_DOWNLOAD_SUBTITLE_SUGGESTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_SELECT",
+        "source_string": "Select your option",
+        "translation": "Seleziona la tua opzione",
+        "context": " -> CHANGELOG_DOWNLOAD_SELECT",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "CHANGELOG_DOWNLOAD_BUTTON",
+        "source_string": "Download",
+        "translation": "Scarica",
+        "context": " -> CHANGELOG_DOWNLOAD_BUTTON",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DOWNLOAD_TITLE",
+        "source_string": "Are you ready?",
+        "translation": "Sei pronto?",
+        "context": " -> DOWNLOAD_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DOWNLOAD_DESCRIPTION",
+        "source_string": "Choose your version",
+        "translation": "Scegli la tua versione",
+        "context": " -> DOWNLOAD_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DOWNLOAD_STORES",
+        "source_string": "Check other app stores:",
+        "translation": "Controlla gli altri app store:",
+        "context": " -> DOWNLOAD_STORES",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DOWNLOAD_AVAILABLE",
+        "source_string": "Press to open",
+        "translation": "Premi per aprire",
+        "context": " -> DOWNLOAD_AVAILABLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DOWNLOAD_UNAVAILABLE",
+        "source_string": "Currently unavailable",
+        "translation": "Non ancora disponibile",
+        "context": " -> DOWNLOAD_UNAVAILABLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DOWNLOAD_DIRECTLY",
+        "source_string": "Press for download page",
+        "translation": "Premi per la pagina download",
+        "context": " -> DOWNLOAD_DIRECTLY",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ERROR_TITLE",
+        "source_string": "This page doesn't exist.",
+        "translation": "Questa pagina non esiste.",
+        "context": " -> ERROR_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ERROR_DESCRIPTION",
+        "source_string": "Looking for an octopus?",
+        "translation": "Cerchi un polpo?",
+        "context": " -> ERROR_DESCRIPTION",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ERROR_BUTTON",
+        "source_string": "I am an octopus",
+        "translation": "Io sono un polpo",
+        "context": " -> ERROR_BUTTON",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PRIVACYPOLICY_TITLE",
+        "source_string": "Find out how we save and process your personal data",
+        "translation": "Scopri come salviamo e gestiamo i tuoi dati personali",
+        "context": " -> PRIVACYPOLICY_TITLE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PRIVACYPOLICY_TITLE_PAGE",
+        "source_string": "Privacy Policy",
+        "translation": "Informativa sulla privacy",
+        "context": " -> PRIVACYPOLICY_TITLE_PAGE",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PRIVACYPOLICY_LOADING",
+        "source_string": "Loading policy...",
+        "translation": "Caricamento informativa...",
+        "context": " -> PRIVACYPOLICY_LOADING",
+        "labels": null,
+        "max_length": null
+    }
+]
