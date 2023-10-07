@@ -1,0 +1,3 @@
+files:
+  - source: LanguagePacks/
+    translation: /%two_letters_code%.json
