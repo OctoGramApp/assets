@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.5.2 Beta",
+      "versionCode": 3530,
+      "sticker": 178,
+      "files": {
+        "x86_64": 183,
+        "universal": 179,
+        "x86": 182,
+        "arm64-v8a": 180,
+        "arm-v7a": 181
+      },
+      "localized_changelogs": {
+        "it": "Questa versione include diverse risoluzioni di bug e crash.",
+        "en": "Several bug and crash fixes."
+      },
+      "beta": true
+    },
+    {
       "version": "2.5.1",
       "versionCode": 3525,
       "sticker": 172,
