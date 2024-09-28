@@ -115,7 +115,7 @@
     "DeviceIdentifyDefault": "Default",
     "DeviceIdentifySmartphone": "Smartphone",
     "DeviceIdentifySmartphoneDesc": "The interface will be forcibly adapted to a smartphone.",
-    "DeviceIdentifyStatus": "Identify device as…",
+    "DeviceIdentifyStatus": "将设备识别为…",
     "DeviceIdentifyTablet": "Tablet",
     "DeviceIdentifyTabletDesc": "The interface will be forcibly adapted to a tablet.",
     "DisableAccountProtection": "Disable Account Protection",
