@@ -234,7 +234,7 @@
     "ImportReadyOtherOptions": "Another %d unspecified options will be imported automatically.",
     "ImproveIcons": "Manage Icons",
     "ImproveIconsDefault": "Default",
-    "ImproveIconsDefault_Desc": "OctoGram will use the default Telegram icons without any changes.",
+    "ImproveIconsDefault_Desc": "",
     "ImproveIconsMaterialDesign3": "Material Design 3",
     "ImproveIconsMaterialDesign3_Desc": "OctoGram will use the Material Design 3 Icons created by Google (more details %s).",
     "ImproveIconsMaterialDesign3_DescHere": "here",

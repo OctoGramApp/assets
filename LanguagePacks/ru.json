@@ -88,7 +88,7 @@
     "DatacenterStatusSheetLastDowntime": "Время последнего простоя",
     "DatacenterStatusSheetLastLag": "Время последней задержки",
     "DatacenterStatusSheetPing": "Пинг",
-    "DatacenterStatus_Desc": "Просмотр информации о дата-центре",
+    "DatacenterStatus_Desc": "Просмотр информации о серверах",
     "DcIdHeader": "Datacenter и ID пользователя",
     "DcIdTypeDescriptionBotapi": "Он вводит знак \"-\" для групп и добавляет \"-100\" для супергрупп, групп вещания и каналов.",
     "DcIdTypeDescriptionTelegram": "Он показывает идентификаторы непосредственно в том виде, в котором они предоставляются Telegram.",
