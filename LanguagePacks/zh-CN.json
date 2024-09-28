@@ -332,7 +332,7 @@
     "OctoMainSettingsManageCategory": "Manage",
     "OctoPrivacyPolicy": "八角图形隐私政策",
     "OctoTgBrowser": "Telegram Browser",
-    "OctoTgBrowserNoPrompt": "Enter a domain for which confirmation will not be asked before opening.",
+    "OctoTgBrowserNoPrompt": "输入一个域名，以便在打开之前不询问确认",
     "OctoTgBrowserNoPromptDesc": "Telegram will always open links from these websites without asking for confirmation.",
     "OctoTgBrowserNoPromptTitle": "Never ask for confirmation",
     "OctoTgBrowserOpenFail": "Telegram Browser is unavailable",
