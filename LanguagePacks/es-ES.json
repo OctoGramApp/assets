@@ -519,8 +519,8 @@
     "UserRestrictionsNoSendGames": "no hay partidas",
     "UserRestrictionsNoSendGifs": "sin GIFs",
     "UserRestrictionsNoSendInlineBots": "no hay bots en línea",
-    "VoiceImprovements": "Supresión de ruido en lasllamadas",
-    "VoiceImprovements_Desc": "Habilita la supresión de ruido y la normalización de voz durante una llamada",
+    "VoiceImprovements": "Eliminar ruido en llamadas",
+    "VoiceImprovements_Desc": "Habilita la eliminación de ruido y la normalización de voz durante una llamada",
     "WebVersion": "Abrir versión web",
     "ZeroShutter": "Retardo de obturación cero (experimental)",
     "ZeroShutter_Desc": "Habilitar retardo de obturación cero para CameraX"
