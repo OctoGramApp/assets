@@ -448,7 +448,7 @@
     "TranslatorDestinationFollow": "Seguir app",
     "TranslatorDestinationFollowDestination": "Seguir destino predeterminado",
     "TranslatorEntireUnavailable": "Esta función no está disponible con el proveedor seleccionado porque no cuentas con una suscripción a Telegram Premium.",
-    "TranslatorFailed": "Error al traducir.",
+    "TranslatorFailed": "Traducción fallida.",
     "TranslatorFormality": "Formalidad",
     "TranslatorFormalityDefault": "Por defecto",
     "TranslatorFormalityHigh": "Formal",
