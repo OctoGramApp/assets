@@ -397,7 +397,7 @@
     "SendMediaPermissionStickers": "Наклейки",
     "ShowFakePhoneNumber": "Показывать поддельный номер телефона",
     "ShowFakePhoneNumber_Desc": "Показывать в своём профиле поддельный номер телефона, например %s.",
-    "ShowHiddenNumber": "Показывать %s",
+    "ShowHiddenNumber": "%s",
     "ShowOnlineStatus": "Показать онлайн статус",
     "ShowOnlineStatus_Desc": "Показывает статус других людей рядом с изображением их профиля в группах",
     "ShowRPCErrors": "Показывать ошибки RPC",
