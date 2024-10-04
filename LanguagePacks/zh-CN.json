@@ -503,7 +503,7 @@
     "UpdatesSettingsLinks": "Other sources",
     "UpdatesSettingsPBeta": "接收测试版本（PBeta）更新",
     "UpdatesSettingsPbetaDescription": "Your main account is part of OctoGram's private beta program.\n\nBy activating this option, you can receive updates from the private beta program directly via OTA like other stable and beta updates, but some updates settings (like \"%s\") will be forcibly activated.",
-    "UpdatesSettingsVerify": "Verify",
+    "UpdatesSettingsVerify": "",
     "UploadBoost": "上传提升",
     "UseCameraX": "使用相机X",
     "UseCameraX_Desc": "使用 CameraX 而不是旧版 API",
