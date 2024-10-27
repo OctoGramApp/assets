@@ -4,6 +4,22 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.5.3 BETA",
+      "versionCode": 3537,
+      "sticker": 190,
+      "files": {
+        "x86_64": 195,
+        "universal": 191,
+        "x86": 194,
+        "arm64-v8a": 192,
+        "arm-v7a": 193
+      },
+      "localized_changelogs": {
+        "en": "Force Monet Icon on Android 12 Only\nAdded full support for CameraX in Photo / Video\nAdded new CameraX Effect (Bokeh, Face Retouch)"
+      },
+      "beta": true
+    },
+    {
       "version": "2.5.2 Beta",
       "versionCode": 3530,
       "sticker": 178,
