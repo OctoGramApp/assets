@@ -395,7 +395,7 @@
     "SendMediaPermissionGifs": "GIF",
     "SendMediaPermissionInline": "Встроенные боты",
     "SendMediaPermissionStickers": "Наклейки",
-    "ShowFakePhoneNumber": "Показывать поддельный номер телефона",
+    "ShowFakePhoneNumber": "Поддельный номер",
     "ShowFakePhoneNumber_Desc": "Показывать в своём профиле поддельный номер телефона, например %s.",
     "ShowHiddenNumber": "%s",
     "ShowOnlineStatus": "Показать онлайн статус",
