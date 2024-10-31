@@ -331,7 +331,7 @@
     "OctoMainSettingsInfoCategory": "Инфо",
     "OctoMainSettingsManageCategory": "Изменить",
     "OctoPrivacyPolicy": "Политика конфиденциальности OctoGram",
-    "OctoTgBrowser": "Телеграм Браузер",
+    "OctoTgBrowser": "Встроенный браузер",
     "OctoTgBrowserNoPrompt": "Введите домен, для которого не будет запрашиваться подтверждение перед открытием.",
     "OctoTgBrowserNoPromptDesc": "Telegram всегда будет открывать ссылки с этих сайтов, не запрашивая подтверждения.",
     "OctoTgBrowserNoPromptTitle": "Никогда не спрашивать подтверждение действия",
