@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.7.0",
+      "versionCode": 3560,
+      "sticker": 210,
+      "files": {
+        "x86_64": 215,
+        "universal": 211,
+        "x86": 214,
+        "arm64-v8a": 212,
+        "arm-v7a": 213
+      },
+      "localized_changelogs": {
+        "it": "SELEZIONA LO STILE PREFERITO DI CARTELLE E SCHEDE\nOra puoi personalizzare lo stile che preferite nelle cartelle e nelle schede, in modo molto più intelligente e granulare.\nE... per la prima volta su un client Android\n- 🔢 È possibile scegliere di mostrare il conteggio dei messaggi non letti invece del conteggio delle chat non lette.\n- 🔇 È possibile scegliere se includere o meno le chat non lette nel contatore dei messaggi non letti.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aspetto =\u003e App.\n\nSELEZIONA LO STILE DI SCORRIMENTO PREFERITO\nOra puoi scegliere lo stile che preferite per i cursori.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aspetto =\u003e App.\n\nPROFILO COME BOLLA\nÈ ora possibile attivare una nuova visualizzazione per la parte del profilo nell'intestazione.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aspetto =\u003e Cassetto.\n\nSELEZIONARE LA DURATA IN MODO PIÙ RAPIDO\nQuando si cancella rapidamente un messaggio e si sceglie di bannare/mutare un utente, è ora possibile scegliere la durata della punizione.\n\nCARATTERISTICHE MINORI\n- È ora possibile scegliere di rendere l'icona dei download sempre visibile nell'intestazione. È possibile attivarla in Impostazioni =\u003e Impostazioni di OctoGram =\u003e Aspetto.\n- È ora possibile premere a lungo il pulsante “nuova storia” per aprire i messaggi salvati.\n- È ora possibile condividere direttamente in altre app premendo a lungo su un link nelle chat.\n- La funzione “Nascondi la cartella ‘tutte le chat’” è ora disponibile per tutti.",
+        "en": "SELECT YOUR FAVORITE FOLDERS\u0026TABS STYLE\nYou can now customize the style you prefer in folders and tabs, in a much more smart and granular way.\nAnd... for the first time on an Android client\n- You can choose to show the unread message count instead of the unread chat count\n- You can choose to include or not the muterd chats in the unread message counter\nMore details in Settings =\u003e OctoGram Settings =\u003e Appearance =\u003e App.\n\nSELECT YOUR FAVORITE SLIDER STYLE\nNow you can choose the style you prefer for the sliders.\nMore details in Settings =\u003e OctoGram Settings =\u003e Appearance =\u003e App.\n\nPROFILE AS BUBBLE\nYou can enable a new view for the profile part of the header.\nMore details in Settings =\u003e OctoGram Settings =\u003e Appearance =\u003e Drawer.\n\nSELECT DURATION IN A FASTER WAY\nWhen you quickly delete a message and choose to ban/mute a user, you can now choose the duration of the punishment.\n\nMINOR FEATURES\n- You can now choose to make the downloads icon always visible in the header. You can enable it in Settings =\u003e OctoGram Settings =\u003e Appearance.\n- You can now long-prerss on \"new story\" button to open Saved Messages.\n- You can now directly share in other apps by long-pressing on a link in chats.\n- \"Hide \"all chats\" folder\" is now available to everyone."
+      },
+      "beta": false
+    },
+    {
       "version": "2.6.0",
       "versionCode": 3540,
       "sticker": 198,
