@@ -158,7 +158,7 @@
     "DrawerFavoriteOptionNone": "Пустой",
     "DrawerFavoriteOptionUnavailable": "Поскольку элемент «Настройки» скрыт элементами ящика, предпочтительным вариантом обязательно должен быть вариант «Настройки».",
     "DrawerGradientBackground": "Градиент фона",
-    "DrawerHeaderAsBubble": "Profile as bubble",
+    "DrawerHeaderAsBubble": "Профиль в пузыре",
     "DrawerHeaderAsBubble_Desc": "It will apply a modern touch to the drawer by showing the profile as bubble.",
     "DrawerShowProfilePic": "Показать фотографию профиля",
     "DrawerTitle": "Меню",
