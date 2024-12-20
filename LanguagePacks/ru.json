@@ -294,7 +294,7 @@
     "ImproveInterfaceTitleCenteredSettings": "Только в настройках",
     "InReplyTo": "В ответ на",
     "IncludeMutedChats": "Включить приглушённые чаты (Экспериментальная)",
-    "IncludeMutedChats_Desc": "Include muted chats in the unread message counter.",
+    "IncludeMutedChats_Desc": "Включить чаты без звука в счётчик непрочитанных сообщений.",
     "InlineQueryCopied": "Inline Запрос скопирован в буфер обмена.",
     "InstalledEmojiSet": "Установлено",
     "InstallingEmojiSet": "Установка…",
@@ -569,7 +569,7 @@
     "ViewStats": "Посмотреть статистику",
     "VoiceImprovements": "Шумоподавление в вызовах",
     "VoiceImprovements_Desc": "Включает шумоподавление и нормализацию голоса во время вызова",
-    "VoipAnsweringAsAccount": "answering as %s",
+    "VoipAnsweringAsAccount": "активный аккаунт %s",
     "WebVersion": "Открыть веб-версию",
     "ZeroShutter": "Zero shutter lag (experimental)",
     "ZeroShutter_Desc": "Включить нулевой лаг затвора для CameraX"
