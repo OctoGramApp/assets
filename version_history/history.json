@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.8.0",
+      "versionCode": 3570,
+      "sticker": 230,
+      "files": {
+        "x86_64": 235,
+        "universal": 231,
+        "x86": 234,
+        "arm64-v8a": 232,
+        "arm-v7a": 233
+      },
+      "localized_changelogs": {
+        "it": "EMOJI FISSATE\nOra puoi fissare tutte le tue emoji preferite (statiche o animate) che appariranno come prime nella sezione emoji! Maggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Generali =\u003e Emoji fissate.\n\nNASCONDI LE CARTELLE SELEZIONATE\nÈ ora possibile scegliere di nascondere, senza eliminare, tutte le cartelle desiderate. È possibile farlo dalle impostazioni delle cartelle o tenendo premuto su una cartella nell'elenco delle chat. Maggiori dettagli in Impostazioni =\u003e Cartelle.\n\nNUOVE OPZIONI PER LE CHAT\nAbbiamo aggiunto tre nuove opzioni per gestire l'interfaccia delle chat:\n- Nascondi barra inferiore nei canali per nascondere la barra “mute/unmute”.\n- Nascondi il pulsante di apertura nell'elenco delle chat per nascondere il pulsante di “apertura” per i bot legati alle webapp.\n- Espandi sempre le virgolette per nascondere il pulsante “espandi” nelle virgolette lunghe.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nNUOVA SCORCIATOIA PER RISPONDERE DIRETTAMENTE IN CHAT PRIVATA\nAbbiamo aggiunto una nuova scorciatoia per rispondere direttamente nella chat privata senza selezionare manualmente la chat. È possibile utilizzarla facendo clic sulla barra delle risposte.\nPresto aggiungeremo questa opzione anche come menu contestuale per i messaggi.\n\nNUOVE SCORCIATOIE PER L'AMMINISTRATORE\nDopo molte richieste, abbiamo deciso di aggiungere le scorciatoie per gli amministratori. È possibile scegliere tra 3 diverse posizioni di scorciatoie. Scoprile tu stesso!\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aspetto =\u003e Chat.\n\nCARATTERISTICHE MINORI\n- È ora possibile salvare un backup prima di ripristinare le impostazioni di OctoGram.\n- È ora possibile scegliere la posizione preferita del pulsante della fotocamera (maggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Camera - grazie a CherryGram).\n- È ora possibile premere a lungo su un utente mentre lo si nomina per menzionarlo senza nome utente.",
+        "en": "PINNED EMOJIS\nYou can now pin all your favorite emojis (static or animated ones) that will appear as first in the emoji section! More details in Settings =\u003e OctoGram Settings =\u003e General =\u003e Pinned Emojis.\n\nHIDE SELECTED FOLDERS\nYou can now choose to hide, without deleting, as many folders as you like. You can do this from the folder settings or by holding down on a folder in the chat list. More details in Settings =\u003e Folders.\n\nNEW CHATS OPTIONS\nWe added three new options to manage your chats interface:\n- Hide bottom bar in channels to hide the \"mute/unmute\" bar\n- Hide open button in chats list to hide the \"open\" button for webapp-related bots\n- Always expand blockquotes to hide the \"expand\" button in long blockquotes\nMore details in Settings =\u003e OctoGram Settings =\u003e Experimental Options.\n\nNEW SHORTCUT TO REPLY DIRECTLY IN PRIVATE CHAT\nWe added a new shortcut to reply directly in private chat without manually selecting the chat. You can use it by clicking on the reply bar.\nWe will add this option soon also as a context menu option for messages.\n\nNEW ADMIN SHORTCUTS\nAfter many requests, we decided to add admin shortcuts. You can choose between 3 different shortcuts position. Discover them yourself!\nMore details here in Settings =\u003e OctoGram Settings =\u003e Appearance =\u003e Chat.\n\nMINOR FEATURES\n- You can now save a backup before resetting your OctoGram settings.\n- You can now choose your favorite camera button position (more details in Settings =\u003e OctoGram Settings =\u003e Camera - thanks to CherryGram).\n- You can now long press on a user while mentioning to mention him without username."
+      },
+      "beta": false
+    },
+    {
       "version": "2.7.0",
       "versionCode": 3560,
       "sticker": 210,
