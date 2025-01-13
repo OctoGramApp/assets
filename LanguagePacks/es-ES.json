@@ -518,7 +518,7 @@
     "Style": "Style",
     "StyleTypeDefault": "Defecto",
     "StyleTypeMessage": "Mensaje",
-    "SwipeToPIP": "Swipe to PIP",
+    "SwipeToPIP": "Deslizar para PIP",
     "SwipeToPIP_Desc": "Swipe up on a video to enter Picture-in-Picture mode.",
     "SystemCameraDesc": "Accede directamente a la cámara del sistema (no aplica para videomensajes).",
     "TabletMode": "Forzar modo Tablet",
@@ -611,7 +611,7 @@
     "VoiceImprovements": "Eliminar ruido en llamadas",
     "VoiceImprovements_Desc": "Habilita la eliminación de ruido y la normalización de voz durante una llamada",
     "VoipAnsweringAsAccount": "answering as %s",
-    "Warnings": "Warnings",
+    "Warnings": "Advertencias",
     "WebVersion": "Abrir versión web",
     "ZeroShutter": "Retardo de obturación cero (experimental)",
     "ZeroShutter_Desc": "Habilitar retardo de obturación cero para CameraX"
