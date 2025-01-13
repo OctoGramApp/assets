@@ -57,7 +57,7 @@
     "BotInfo": "Bot",
     "CallbackCopiedHint": "Devolución de llamada copiada al portapapeles.",
     "Camera2Desc": "La API de Camera 2 ofrece funciones de cámara avanzadas y un mejor control sobre la captura de imágenes. Es compatible con la mayoría de los dispositivos modernos.",
-    "CameraButtonPosition": "Posición del Botón de la Cámara",
+    "CameraButtonPosition": "Posición del Botón de Cámara",
     "CameraButtonPosition_BottomBar": "Barra inferior",
     "CameraButtonPosition_Default": "Por defecto",
     "CameraButtonPosition_Desc": "Escoge la posición del botón de la cámara",
