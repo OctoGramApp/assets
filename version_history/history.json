@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.9.5",
+      "versionCode": 3615,
+      "sticker": 238,
+      "files": {
+        "x86_64": 243,
+        "universal": 239,
+        "x86": 242,
+        "arm64-v8a": 240,
+        "arm-v7a": 241
+      },
+      "localized_changelogs": {
+        "it": "REAZIONI FISSATE\nÈ ora possibile scegliere le proprie reazioni preferite che appariranno sempre prima delle altre. È possibile scegliere elenchi diversi tra chat e canali.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Generale =\u003e Reazioni fissare.\n\nPRESET QUALITÀ\nÈ ora possibile scegliere la qualità preferita per ottimizzare l'utilizzo dei dati di rete.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nCARATTERISTICHE MINORI\n- È ora possibile aggiungere il pulsante “Rispondi in chat privata” come elemento del menu contestuale.\n- È ora possibile minimizzare la barra di traduzione per nasconderla senza rimuovere i messaggi tradotti.\n- È ora possibile utilizzare i provider Baidu/Lingo per tradurre i messaggi (grazie a Nekogram).",
+        "en": "PINNED REACTIONS\nYou can now choose your favorite reactions that will always appear before others. You can choose different lists between chats and channels.\nMore details in Settings =\u003e OctoGram Settings =\u003e General =\u003e Pinned Reactions.\n\nQUALITY PRESET\nYou can now choose your favorite quality preset to optimize your network data usage.\nMore details here in Settings =\u003e OctoGram Settings =\u003e Experimental Options.\n\nMINOR FEATURES\n- You can now add \"reply to private chat\" button as context menu element.\n- You can now minimize the translation bar to hide it without removing translated messages.\n- You can now use Baidu/Lingo providers to translate messages (thanks to Nekogram)."
+      },
+      "beta": false
+    },
+    {
       "version": "2.8.0",
       "versionCode": 3570,
       "sticker": 230,
