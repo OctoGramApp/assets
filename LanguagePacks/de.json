@@ -639,7 +639,7 @@
     "VoiceImprovements": "Rauschunterdrückung bei Anrufen",
     "VoiceImprovements_Desc": "Aktiviert Geräuschunterdrückung und Sprachnormalisierung während eines Anrufs",
     "VoipAnsweringAsAccount": "answering as %s",
-    "Warnings": "Warnings",
+    "Warnings": "Warnungen",
     "WebVersion": "Open Web Version",
     "ZeroShutter": "Zero shutter lag (experimental)",
     "ZeroShutter_Desc": "Keine Verschlusszeit für KameraX aktivieren"
