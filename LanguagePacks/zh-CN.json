@@ -560,7 +560,7 @@
     "TranslatorInMessageBadge": "已翻译",
     "TranslatorKeepMarkdown": "保持格式",
     "TranslatorMinimized": "Translator bar has been minimized for this chat.",
-    "TranslatorMinimizedChannel": "Translator bar has been minimized for this channel.",
+    "TranslatorMinimizedChannel": "该频道的翻译工具栏已最小化。",
     "TranslatorMinimizedGroup": "Translator bar has been minimized for this group.",
     "TranslatorMode": "模式",
     "TranslatorModeDefault": "弹出窗口",
@@ -639,7 +639,7 @@
     "VoiceImprovements": "通话中的噪音抑制",
     "VoiceImprovements_Desc": "通话时启用噪声抑制和语音标准化",
     "VoipAnsweringAsAccount": "answering as %s",
-    "Warnings": "Warnings",
+    "Warnings": "警告",
     "WebVersion": "Open Web Version",
     "ZeroShutter": "拍摄无延迟（试验性）",
     "ZeroShutter_Desc": "为 CameraX 启用零快门延迟"
