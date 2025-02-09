@@ -11,7 +11,9 @@
   </card>
   <card>
     <title>No Guarantee of Accuracy or Availability</title>
-    <body>This service is provided "as is" without any warranties, express or implied. The results displayed are based on network conditions, system load, and other external factors that may vary. The service does not guarantee the accuracy, reliability, or completeness of the information provided.</body>
+    <body>This service is provided "as is" without any warranties, express or implied. The results displayed are based on network conditions, system load, and other external factors that may vary. The service does not guarantee the accuracy, reliability, or completeness of the information provided.
+
+ 	Before sharing any reports or alerts derived from this monitoring tool, users are strongly encouraged to verify their own network conditions, test alternative access methods, and check for official Telegram announcements to ensure the accuracy of their conclusions.</body>
   </card>
   <card>
     <title>External Factors and User Dependency</title>
@@ -25,10 +27,6 @@
   <card>
     <title>No Affiliation with Telegram</title>
     <body>This service is an independent monitoring tool and is in no way affiliated with, endorsed by, or officially supported by Telegram. All trademarks and names belong to their respective owners.</body>
-  </card>
-  <card>
-    <title>Usage Limitations</title>
-    <body>The service is intended for informational purposes only. Any use of the service for automated monitoring, commercial applications, or any activity that violates applicable laws is strictly prohibited.</body>
   </card>
   <card>
     <title>Liability Disclaimer</title>
