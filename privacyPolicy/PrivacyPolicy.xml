@@ -1,74 +1,76 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>    
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <cards>
-  <card>
-    <title>Welcome to OctoGram Privacy Policy</title>
-    <body>The following privacy policy applies from September 7, 2023 for all days thereafter. It is subject to change, see the final paragraph for more information.
-
-    The following privacy policy applies to the OctoGram project (referred to as "we", "us", "app", "client") and indicates how we collect, store, use and/or share ("process") your information when you use our services.
-
-    By use we mean:
-    - when you download and use our Android app from Play Store or other available downloads
-    - when you use this website (octogram.site)
-    - any other method of interaction where a link to this privacy policy is indicated</body>
-  </card>
-  <card>
-    <title>OctoGram as an open source project</title>
-    <body>OctoGram is an open source project and is consistent with Telegram's API terms of use. OctoGram follows the GPL-2.0 license, also chosen by the official Telegram project, which can be visited <a href='https://github.com/OctoGramApp/OctoGram/blob/revamp/LICENSE' target='_blank'>here</a>. 
-
-    The entire client is <a href='https://github.com/OctoGramApp/OctoGram' target='_blank'>open source</a> and complies with the <a href='https://core.telegram.org/reproducible-builds' target='_blank'>Reproducible Builds</a> offered by Telegram.
-
-    The site, intended as a custom project not dependent on Telegram, is also <a href='https://github.com/OctoGramApp/Website' target='_blank'>open source</a> and is based on the GPL-2.0 license that can be visited <a href='https://github.com/OctoGramApp/website/blob/main/LICENSE'>here</a>.</body>
-  </card>
-  <card>
-    <title>Use of personal data and permissions:</title>
-    <body>OctoGram has basic services, which are necessary for proper functioning. The app may be unstable if this is not the case.
-
-    The app is based on:
-    - <a href='https://support.google.com/android/answer/10546414' target='_blank'>Google Play Services</a> and all references to it
-    - <a href='https://firebase.google.com/' target='_blank'>Google Firebase Notifications</a> used to send notifications
-
-    Used permissions vary depending on the user's use of the application. Listed below are all the permissions with the main uses.
-
-    - Location: is used when sending a location (or real-time location, referred to as "live location") or when using the "people nearby" feature
-    - Photos and videos: used when expanding the media picker to send media in a chat, when uploading a story, when editing your own or a group profile photo
-    - Files and documents: is used when expanding the media picker to send a file in a chat
-    - Audio: is used when recording a voice message in a chat, or when recording a video in any way (via VIDEO or VIDEOMESSAGE or STORY)
-    - Contacts: is used when choosing to synchronise contacts (option offered when first opening and can be deactivated from the Privacy and Security settings)</body>
-  </card>
-  <card>
-    <title>Log data (and crash log)</title>
-    <body>OctoGram will never send data automatically to the server. Sending the data is only in your hands.
-
-    The basic logs are consistent with those in the official Telegram application. OctoGram has implemented its own logging method only for recording crashes. Again, the app offers the user the possibility of sending crashes but does not do so automatically.
-
-    Crash logs are sent as files in our official group. They contain data such as:
-    - version of OctoGram and the version on which OctoGram is based
-    - the device name and android version
-    - the performance class with which Telegram detects the device
-    - the language applied to the device from the system settings
-    - the presence or absence of Google Play Services
-    - the entire OctoGram settings configuration
-    - the error that caused the crash
-
-    OctoGram will never share your phone number, IP or other similar data via the crash log.</body>
-  </card>
-  <card>
-    <title>Children's privacy</title>
-    <body>OctoGram complies with the requirements introduced by Telegram's Terms of Service. 
-
-    If you are an EU or United Kingdom citizen, you must be at least 16 years old to register. Externally, OctoGram is not intended for use by children under the age of 14. 
-
-    OctoGram does not accept responsibility for cases other than the one mentioned.</body>
-  </card>
-  <card>
-    <title>Further information on the Privacy Policy and changes made</title>
-    <body>OctoGram is based on Telegram, consequently all the information set out in Telegram's Privacy Policy also applies to OctoGram, even if this policy indicates different information.
-    The site is fully hosted on Github Pages, therefore the <a href='https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection' target='_blank'>Github Privacy Policy</a> applies. 
-
-    We reserve the right to change this policy without notice. Check this page frequently to stay up to date.
-
-    Latest changes:
-    - September 01, 2023: first publication and revision
-    - September 7, 2023: enforcement of privacy policy</body>
-  </card>
+	<card>
+		<title>Welcome to OctoGram Privacy Policy</title>
+		<body>The following privacy policy applies from September 7, 2023, for all days thereafter. It is subject to change, see the final paragraph for more information.
+			
+			The following privacy policy applies to the OctoGram project (referred to as "we", "us", "app", "client") and indicates how we collect, store, use and/or share ("process") your information when you use our services.
+			
+			By use, we mean:
+			- when you download and use our Android app from Play Store or other available downloads
+			- when you use this website (octogramapp.github.io)
+			- any other method of interaction where a link to this privacy policy is indicated</body>
+	</card>
+	<card>
+		<title>OctoGram as an open source project</title>
+		<body>OctoGram is an open source project and is consistent with Telegram's API terms of use. OctoGram follows the GPL-2.0 license, also chosen by the official Telegram project, which can be visited <a href='https://github.com/OctoGramApp/OctoGram/blob/revamp/LICENSE' target='_blank'>here</a>.
+			
+			The entire client is <a href='https://github.com/OctoGramApp/OctoGram' target='_blank'>open source</a> and complies with the <a href='https://core.telegram.org/reproducible-builds' target='_blank'>Reproducible Builds</a> offered by Telegram.
+			
+			The site, intended as a custom project not dependent on Telegram, is also <a href='https://github.com/OctoGramApp/Website' target='_blank'>open source</a> and is based on the GPL-2.0 license that can be visited <a href='https://github.com/OctoGramApp/website/blob/main/LICENSE'>here</a>.</body>
+	</card>
+	<card>
+		<title>Use of personal data and permissions:</title>
+		<body>OctoGram has basic services, which are necessary for proper functioning. The app may be unstable if this is not the case.
+			
+			The app is based on:
+			- <a href='https://support.google.com/android/answer/10546414' target='_blank'>Google Play Services</a> and all references to it
+			- <a href='https://firebase.google.com/' target='_blank'>Google Firebase Notifications</a> used to send notifications
+			
+			Used permissions vary depending on the user's use of the application. Listed below are all the permissions with the main uses.
+			
+			- Location: is used when sending a location (or real-time location, referred to as "live location") or when using the "people nearby" feature
+			- Photos and videos: used when expanding the media picker to send media in a chat, when uploading a story, when editing your own or a group profile photo
+			- Files and documents: is used when expanding the media picker to send a file in a chat
+			- Audio: is used when recording a voice message in a chat, or when recording a video in any way (via VIDEO or VIDEOMESSAGE or STORY)
+			- Contacts: is used when choosing to synchronise contacts (option offered when first opening and can be deactivated from the Privacy and Security settings)</body>
+	</card>
+	<card>
+		<title>Log data (and crash log)</title>
+		<body>OctoGram will never send data automatically to the server. Sending the data is only in your hands.
+			
+			The basic logs are consistent with those in the official Telegram application. OctoGram has implemented its own logging method only for recording crashes. Again, the app offers the user the possibility of sending crashes but does not do so automatically.
+			
+			Crash logs are sent as files in our official group. They contain data such as:
+			- version of OctoGram and the version on which OctoGram is based
+			- the device name and android version
+			- the performance class with which Telegram detects the device
+			- the language applied to the device from the system settings
+			- the presence or absence of Google Play Services
+			- the entire OctoGram settings configuration
+			- the error that caused the crash
+			
+			OctoGram will never share your phone number, IP or other similar data via the crash log.</body>
+	</card>
+	<card>
+		<title>Children's privacy</title>
+		<body>OctoGram complies with the requirements introduced by Telegram's Terms of Service.
+			
+			If you are an EU or United Kingdom citizen, you must be at least 16 years old to register. Externally, OctoGram is not intended for use by children under the age of 14.
+			
+			OctoGram does not accept responsibility for cases other than the one mentioned.</body>
+	</card>
+	<card>
+		<title>Further information on the Privacy Policy and changes made</title>
+		<body>OctoGram is based on Telegram, consequently all the information set out in Telegram's Privacy Policy also applies to OctoGram, even if this policy indicates different information.
+			The site is fully hosted on GitHub Pages, therefore the <a href='https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection' target='_blank'>Github Privacy Policy</a> applies.
+			
+			We reserve the right to change this policy without notice. Check this page frequently to stay up to date.
+			
+			Latest changes:
+			- September 01, 2023: first publication and revision
+			- September 7, 2023: enforcement of privacy policy
+			- February, 9, 2025: updated domain-name
+		</body>
+	</card>
 </cards>

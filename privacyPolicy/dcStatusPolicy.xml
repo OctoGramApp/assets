@@ -1,35 +1,48 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <cards>
-  <card>
-    <title>Welcome to the Telegram Datacenter Monitoring Service</title>
-    <body>This service provides real-time monitoring of Telegram's datacenter availability based on three aspects:
-    - Network: performing ping tests to Telegram datacenter IPs.
-    - Media: attempting to download media files from Telegram datacenters.
-    - Web: performing ping tests to official Telegram websites.
-    
-    By using this service, you agree to the following terms and acknowledge the inherent limitations of the provided data.</body>
-  </card>
-  <card>
-    <title>No Guarantee of Accuracy or Availability</title>
-    <body>This service is provided "as is" without any warranties, express or implied. The results displayed are based on network conditions, system load, and other external factors that may vary. The service does not guarantee the accuracy, reliability, or completeness of the information provided.
-
- 	Before sharing any reports or alerts derived from this monitoring tool, users are strongly encouraged to verify their own network conditions, test alternative access methods, and check for official Telegram announcements to ensure the accuracy of their conclusions.</body>
-  </card>
-  <card>
-    <title>External Factors and User Dependency</title>
-    <body>The results of network tests (ping, download speed, media availability) depend on various external factors, including but not limited to:
-    - The user's internet connection speed and stability.
-    - The geographical location of the user.
-    - Temporary network issues affecting routing to Telegramâs infrastructure.
-    - Restrictions imposed by ISPs or network firewalls.
-    - Changes in Telegrams infrastructure beyond our control.</body>
-  </card>
-  <card>
-    <title>No Affiliation with Telegram</title>
-    <body>This service is an independent monitoring tool and is in no way affiliated with, endorsed by, or officially supported by Telegram. All trademarks and names belong to their respective owners.</body>
-  </card>
-  <card>
-    <title>Liability Disclaimer</title>
-    <body>Users acknowledge that the results may not reflect actual Telegram service availability and should not be used as a definitive source of information.</body>
-  </card>
+	<card>
+		<title>Welcome to the Telegram Datacenter Monitoring Service</title>
+		<body>This service provides real-time monitoring of Telegram's datacenter availability based on three aspects:
+			- Network: performing ping tests to Telegram datacenter IPs.
+			- Media: attempting to download media files from Telegram datacenters.
+			- Web: performing ping tests to official Telegram websites.
+			
+			By using this service, you agree to the following terms and acknowledge the inherent limitations of the provided
+			data.
+		</body>
+	</card>
+	<card>
+		<title>No Guarantee of Accuracy or Availability</title>
+		<body>This service is provided "as is" without any warranties, express or implied. The results displayed are based
+			on network conditions, system load, and other external factors that may vary. The service does not guarantee the
+			accuracy, reliability, or completeness of the information provided.
+			
+			Before sharing any reports or alerts derived from this monitoring tool, users are strongly encouraged to verify
+			their own network conditions, test alternative access methods, and check for official Telegram announcements to
+			ensure the accuracy of their conclusions.
+		</body>
+	</card>
+	<card>
+		<title>External Factors and User Dependency</title>
+		<body>The results of network tests (ping, download speed, media availability) depend on various external factors,
+			including but not limited to:
+			- The user's internet connection speed and stability.
+			- The geographical location of the user.
+			- Temporary network issues affecting routing to Telegram's infrastructure.
+			- Restrictions imposed by ISPs or network firewalls.
+			- Changes in Telegram's infrastructure beyond our control.
+		</body>
+	</card>
+	<card>
+		<title>No Affiliation with Telegram</title>
+		<body>This service is an independent monitoring tool and is in no way affiliated with, endorsed by, or officially
+			supported by Telegram. All trademarks and names belong to their respective owners.
+		</body>
+	</card>
+	<card>
+		<title>Liability Disclaimer</title>
+		<body>Users acknowledge that the results may not reflect actual Telegram service availability and should not be used
+			as a definitive source of information.
+		</body>
+	</card>
 </cards>
