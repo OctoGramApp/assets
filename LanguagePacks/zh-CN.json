@@ -381,7 +381,7 @@
     "NoCrashLogFound": "未找到崩溃日志",
     "NoQuoteForward": "无引用转发",
     "Nothing": "无",
-    "NumberRounding": "计数方式",
+    "NumberRounding": "禁用数字舍入",
     "NumberRounding_Desc": "3110 &gt; 3.11K",
     "OctoAppearanceSettingsHeader": "通过以下自定义设置，打造属于您自己的 Telegram",
     "OctoCameraSettings": "相机设置",
