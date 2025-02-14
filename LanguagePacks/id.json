@@ -539,7 +539,7 @@
     "TestBackendNumber": "Nomor Tes",
     "TestBackendOff": "Akun ini akan terhubung ke pengujian backend.",
     "TestBackendOn": "Akun ini akan terhubung ke pengujian backend.",
-    "TranscriptionTooLong": "This voice message is too long.",
+    "TranscriptionTooLong": "Pesan suara terlalu panjang.",
     "TranslateEntireChatDescription": "Anda dapat memilih untuk menampilkan tombol untuk menerjemahkan seluruh obrolan. ",
     "TranslateOcto": "Terjemahkan OctoGram",
     "TranslateOcto_Desc": "Bantu kami menerjemahkan OctoGram ke dalam bahasamu",
@@ -639,7 +639,7 @@
     "VoiceImprovements": "Peredam kebisingan dalam panggilan",
     "VoiceImprovements_Desc": "Mengaktifkan peredam bising dan normalisasi suara saat dalam panggilan",
     "VoipAnsweringAsAccount": "answering as %s",
-    "Warnings": "Warnings",
+    "Warnings": "Peringatan",
     "WebVersion": "Buka Versi Web",
     "ZeroShutter": "Zero shutter lag (percobaan)",
     "ZeroShutter_Desc": "Aktifkan zero shutter lag untuk CameraX"
