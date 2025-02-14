@@ -610,7 +610,7 @@
     "UpdatesSettingsHeader": "Tetap up to date dengan berita terbaru dari OctoGram.",
     "UpdatesSettingsLinks": "Sumber lainnya",
     "UpdatesSettingsPBeta": "Menerima pembaruan PBeta",
-    "UpdatesSettingsPbetaDescription": "Your main account is part of OctoGram's private beta program.\n\nBy activating this option, you can receive updates from the private beta program directly via OTA like other stable and beta updates, but some updates settings (like \"%s\") will be forcibly activated.",
+    "UpdatesSettingsPbetaDescription": "Akun utama Anda adalah bagian dari Rancangan Pribadi OctoGram beta.\n\nDengan mengaktifkan pilihan ini, Anda dapat menerima pembaruan dari program beta pribadi secara langsung via OTA seperti versi stabil dan pembaruan beta lainnya, tetapi beberapa pengaturan pembaruang (seperti \"%s\") akan diaktifkan dengan paksa.",
     "UpdatesSettingsVerify": "Verifikasi",
     "UploadBoost": "Peningkatan unggahan",
     "UseCameraX": "Gunakan CameraX",
