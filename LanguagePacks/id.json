@@ -593,7 +593,7 @@
     "UpdatesSettingsAutoDescription": "Bila dinyalakan, server akan memberitahu aplikasi kapan untuk mengecek pembaruan terbaru.",
     "UpdatesSettingsAutoDownload": "Unduh otomatis",
     "UpdatesSettingsAutoDownloadAlways": "Selalu",
-    "UpdatesSettingsAutoDownloadAlwaysDesc": "An OctoGram update uses approximately 80 MB. Additional costs may be charged by your phone company.",
+    "UpdatesSettingsAutoDownloadAlwaysDesc": "Pembaruan OctoGram memerlukan setidaknya 80 MB. Tambahan biaya akan dikenakan pada layanan seluler Anda.",
     "UpdatesSettingsAutoDownloadNever": "Tidak akan",
     "UpdatesSettingsAutoDownloadWifi": "Hanya pada Wi-Fi",
     "UpdatesSettingsBeta": "Menyediakan versi beta",
