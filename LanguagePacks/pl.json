@@ -155,7 +155,7 @@
     "DatacenterStatusSection_Start_Media": "Rozpocznij pobieranie",
     "DatacenterStatusSection_Start_Ping": "Rozpocznij pingowanie",
     "DatacenterStatusSection_Status_Downloads": "Test wykorzystuje plik o rozmiarze %1$d MB.",
-    "DatacenterStatusSection_Stop": "Zatrzymaj aktywność",
+    "DatacenterStatusSection_Stop": "Zatrzymaj monitorowanie",
     "DatacenterStatusSection_Tab_Media": "Multimedia",
     "DatacenterStatusSection_Tab_Network": "Sieć",
     "DatacenterStatusSection_Tab_Web": "Sieć",
