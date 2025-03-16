@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "3.0.3",
+      "versionCode": 3635,
+      "sticker": 245,
+      "files": {
+        "x86_64": 250,
+        "universal": 246,
+        "x86": 249,
+        "arm64-v8a": 247,
+        "arm-v7a": 248
+      },
+      "localized_changelogs": {
+        "it": "NUOVE IMPOSTAZIONI SULLA PRIVACY\nDa oggi è possibile:\n- Bloccare singole chat (dai 3 punti o dall'elenco delle chat)\n- Bloccare singole azioni (cronologia delle chiamate, chat segrete, impostazioni)\nIl doppio fondo, o blocco dell'account, è stato radicalmente modificato con un'interfaccia e un'esperienza più veloci e innovative.\nLe nuove opzioni si basano sullo sblocco tramite impronta digitale ed è anche possibile abilitare lo sblocco tramite PIN del dispositivo o tramite volto.\nIl tutto può essere configurato nel nuovo menu delle impostazioni.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Privacy e sicurezza.\n\nSTATO DC\nL'opzione Stato DC è ora più completa e presenta due nuove funzioni:\n- Media monitor per provare a scaricare dai 5 DC di Telegram\n- Web monitor per provare il ping verso i principali siti di Telegram\n\nPINNED HASHTAGS\nOra potete scegliere i vostri hashtag preferiti che appariranno sempre prima degli altri. \nSe avete già usato frequentemente gli hashtag nelle chat, apparirà un suggerimento per appuntarli rapidamente.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Generale =\u003e Hashtag appuntati.\n\nCARATTERISTICHE MINORI\n- È ora possibile condividere un link a un'opzione delle impostazioni di OctoGram tenendo premuto sulla barra delle azioni di una pagina specifica.\n- Miglioramento dell'inizializzazione della fotocamera e del rilevamento e gestione della fotocamera grandangolare.\n- Tutti i link e i dettagli di OctoGram fanno ora parte di un'unica pagina: scopritela in Impostazioni di OctoGram =\u003e Scopri di più (ispirato a CherryGram).",
+        "en": "NEW PRIVACY SETTINGS\nAs of today, you can:\n- Block individual chats (from the 3 dots or the chat list)\n- Block individual actions (call history, secret chats, settings)\nThe double bottom, or account blocking, has been radically changed with a faster and more innovative interface and experience.\nThe new options are based on fingerprint unlocking and it is also possible to enable unlocking by device PIN or by face.\nThis can all be configured in the new settings menu.\nMore details in Settings =\u003e OctoGram Settings =\u003e Privacy and Security.\n\nDC STATUS\nThe DC Status option is now more comprehensive and has 2 new features:\n- Media monitor to try downloading from the 5 Telegram DCs\n- Web monitor to try pinging to main Telegram sites\n\nPINNED HASHTAGS\nYou can now choose your favorite hashtags that will always appear before others. \nIf you have already used hashtags frequently in chats, a suggestion will appear to pin them quickly.\nMore details in Settings =\u003e OctoGram Settings =\u003e General =\u003e Pinned Hashtags.\n\nMINOR FEATURES\n- You can now share a link to an OctoGram settings option by holding down on the action bar of a specific page.\n- Improved camera initialization and wide-angle camera detection and handling.\n- All OctoGram links and details are now part of a single page - discover it in OctoGram Settings =\u003e Discover More (inspired by CherryGram)."
+      },
+      "beta": false
+    },
+    {
       "version": "2.9.5",
       "versionCode": 3615,
       "sticker": 238,
