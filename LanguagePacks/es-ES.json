@@ -159,7 +159,7 @@
     "DatacenterStatusSection_Tab_Media": "Medios",
     "DatacenterStatusSection_Tab_Network": "Red de Trabajo",
     "DatacenterStatusSection_Tab_Web": "Red",
-    "DatacenterStatusSection_TermsAccept": "By proceeding, you agree to the DC Status <![CDATA[<a href=\"https://%s/dcterms\">Terms of Service</a>]]>.",
+    "DatacenterStatusSection_TermsAccept": "Al continuar, usted acepta el estado de CD <![CDATA[<a href=\"https://%s/dcterms\">Términos de servicio </a>]]>.",
     "DatacenterStatusSection_TestBackend": "Backend de prueba",
     "DatacenterStatusSection_TestBackend_Desc": "Las pruebas de descarga no están disponibles en los backends de prueba.",
     "DatacenterStatus_Media": "Prueba de Centro de Datos",
