@@ -60,7 +60,7 @@
     "BiometricAskEvery_Desc": "L'autenticazione biometrica verrà richiedya ogni %1$s.",
     "BiometricSettings": "Biometria",
     "BiometricSettingsAllowDevicePIN": "Abilita sblocco tramite PIN dispositivo",
-    "BiometricSettingsAllowFaceUnlock": "Abilita sblocca tramite viso",
+    "BiometricSettingsAllowFaceUnlock": "Abilita sblocco tramite viso",
     "BiometricSettingsHideChats": "Nascondi le chat bloccate nella ricerca",
     "BiometricSettingsOpenArchive": "Richiedi autenticazione per aprire l'archivio",
     "BiometricSettingsOpenCallsLog": "Richiedi autenticazione per aprire la cronologia delle chiamate",
