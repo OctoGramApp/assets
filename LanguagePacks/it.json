@@ -53,7 +53,7 @@
     "BehaviorsHeader": "Azioni",
     "BiometricAskEvery": "Richiedi autenticazione ogni…",
     "BiometricAskEvery_Always": "Sempre",
-    "BiometricAskEvery_Desc": "L'autenticazione biometrica verrà richiedya ogni %1$s.",
+    "BiometricAskEvery_Desc": "L'autenticazione biometrica verrà richiesta ogni %1$s.",
     "BiometricSettings": "Biometria",
     "BiometricSettingsAllowDevicePIN": "Abilita sblocco tramite PIN dispositivo",
     "BiometricSettingsAllowFaceUnlock": "Abilita sblocco tramite riconoscimento facciale",
