@@ -4,6 +4,20 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "3.0.4",
+      "versionCode": 3640,
+      "sticker": 257,
+      "files": {
+        "x86_64": 262,
+        "universal": 258,
+        "x86": 261,
+        "arm64-v8a": 259,
+        "arm-v7a": 260
+      },
+      "localized_changelogs": {},
+      "beta": true
+    },
+    {
       "version": "3.0.3",
       "versionCode": 3635,
       "sticker": 245,
