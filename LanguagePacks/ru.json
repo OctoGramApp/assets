@@ -282,7 +282,7 @@
     "FormatTimeWithSeconds": "Время формата с секундами",
     "FormatTimeWithSeconds_Desc": "10:20 &gt; 10:20:22",
     "FormatterDay12HSec": "ч:мм:сс а",
-    "FormatterDay24HSec": "ЧЧ:мм:сс",
+    "FormatterDay24HSec": "HH:mm:ss",
     "FormattingHeader": "Форматирование",
     "ForwardedMessage": "Пересланное сообщение",
     "ForwardsNumber": "Вперёд",
