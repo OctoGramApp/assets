@@ -215,7 +215,7 @@
     "DrawerFavoriteOptionNone": "Boş",
     "DrawerFavoriteOptionUnavailable": "Ayarlar öğesi, çekmece öğeleri tarafından gizlendiğinden, tercih edilen seçenek mutlaka ayarlar olmalıdır.",
     "DrawerGradientBackground": "Degrade Arka Plan",
-    "DrawerHeaderAsBubble": "Profili baloncuk olarak göster",
+    "DrawerHeaderAsBubble": "Profili baloncuk şeklinde göster",
     "DrawerHeaderAsBubble_Desc": "Profili baloncuk şeklinde göstererek çekmeceye modern bir dokunuş katacaktır.",
     "DrawerShowProfilePic": "Profil Fotoğrafını Göster",
     "DrawerTitle": "Çekmece",
