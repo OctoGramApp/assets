@@ -468,7 +468,7 @@
     "OctoTgBrowserNoPrompt": "Введите домен, для которого не будет запрашиваться подтверждение перед открытием.",
     "OctoTgBrowserNoPromptDesc": "Telegram всегда будет открывать ссылки с этих сайтов, не запрашивая подтверждения.",
     "OctoTgBrowserNoPromptTitle": "Никогда не спрашивать подтверждение действия",
-    "OctoTgBrowserOpenFail": "Телеграм Браузер недоступен",
+    "OctoTgBrowserOpenFail": "Браузер Telegram недоступен",
     "OctoTgBrowserOpenFail_Desc": "Выбранная операция недоступна, поскольку встроенный браузер в приложении отключен.",
     "OfficialChannel": "Официальный канал",
     "OfficialGroup": "Официальная группа",
