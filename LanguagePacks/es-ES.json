@@ -58,7 +58,7 @@
     "BiometricSettingsAllowDevicePIN": "Permitir usar el PIN del dispositivo",
     "BiometricSettingsAllowFaceUnlock": "Permitir usar desbloqueo facial",
     "BiometricSettingsHideChats": "Esconder contenido bloqueado en la búsqueda",
-    "BiometricSettingsOpenArchive": "Lock archived chats",
+    "BiometricSettingsOpenArchive": "Bloquear chats archivados",
     "BiometricSettingsOpenCallsLog": "Lock calls history",
     "BiometricSettingsOpenSecretChats": "Lock secret chats",
     "BiometricSettingsOpenSettings": "Lock settings",
