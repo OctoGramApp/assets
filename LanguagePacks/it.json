@@ -38,7 +38,7 @@
     "AiFeatures_AccessVia_Login_DisableS": "Disable %s integration",
     "AiFeatures_AccessVia_Login_Google_1": "Apri Google AI Studio",
     "AiFeatures_AccessVia_Login_Google_1_Desc": "Accedi alla console di Google AI Studio tramite questo link: <![CDATA[<a href=\"https://aistudio.google.com/apikey\">aistudio.google.com</a>]]>.",
-    "AiFeatures_AccessVia_Login_Google_2": "Create new key",
+    "AiFeatures_AccessVia_Login_Google_2": "Crea nuova chiave",
     "AiFeatures_AccessVia_Login_Google_2_Desc": "If you do not have it, click on the \"Generate New Key\" button.",
     "AiFeatures_AccessVia_Login_NextStep": "Next step",
     "AiFeatures_AccessVia_Login_NextStep_SaveKey": "Save key",
