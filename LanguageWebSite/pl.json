@@ -14,7 +14,7 @@
     "CHANGELOG_TITLE": "Wszystkie najnowsze wersje beta i stabilne aplikacji.",
     "CHANGELOG_TITLE_PAGE": "Lista zmian",
     "DCSTATUS_BUTTON": "Odśwież status",
-    "DCSTATUS_EXPORT": "Eksportuj status",
+    "DCSTATUS_EXPORT": "Eksportuj ten status",
     "DCSTATUS_EXPORT_ALERT": "Dane, które są częścią eksportu, podlegają buforowaniu. Pobrany obraz może różnić się wartościami od tych wyświetlanych tutaj.",
     "DCSTATUS_EXPORT_BUTTON": "Pobierz plik",
     "DCSTATUS_EXPORT_ERROR": "Wystąpił błąd wewnętrzny. Spróbuj odświeżyć stronę.",
