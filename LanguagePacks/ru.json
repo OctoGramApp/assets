@@ -398,7 +398,7 @@
     "FeatureCurrentlyUnavailable": "Эта функция в настоящее время не работает(",
     "FileBitrate": "Битрейт",
     "FileCodec": "Кодек",
-    "FileDC": "Центр данных",
+    "FileDC": "Сервер",
     "FileFrameRate": "Кадров в секунду",
     "FileName": "Наименование",
     "FilePath": "Путь",
