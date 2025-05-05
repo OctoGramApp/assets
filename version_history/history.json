@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "3.1.4",
+      "versionCode": 3665,
+      "sticker": 264,
+      "files": {
+        "x86_64": 269,
+        "universal": 265,
+        "x86": 268,
+        "arm64-v8a": 266,
+        "arm-v7a": 267
+      },
+      "localized_changelogs": {
+        "it": "🧠 INTELLIGENZA ARTIFICIALE\nOra puoi integrare fornitori come Google Gemini, ChatGPT o OpenRouter direttamente nella tua app di messaggistica!\nCon l’IA puoi:\n• Tradurre istantaneamente i messaggi, anche in dialetto\n• Comprendere subito il contesto di una chat affollata, anche con molti messaggi non letti\n\n🛠 MODELLI PERSONALIZZATI DI IA\nCrea modelli personalizzati (o usa quelli preimpostati) per adattare l’intelligenza artificiale alle tue esigenze.\nVai su: Impostazioni → Impostazioni OctoGram → Funzionalità AI → Crea nuovo modello\nHai bisogno di ispirazione? Prova subito uno dei nostri modelli: t.me/OctoModels\n\n🌍 TRADUZIONE RAPIDA\nTocca due volte un messaggio per tradurlo all’istante!\nAttiva o disattiva questa funzione da:\nImpostazioni → Impostazioni OctoGram → Generali → Azione doppio tap\n\n🎨 APPARENZA PERSONALIZZABILE\nOra puoi personalizzare i bottoni rapidi nella lista chat:\n• Scegli cosa mostrare\n• Decidi cosa nascondere\n• Imposta l’azione alla pressione prolungata\nGestiscili da: Impostazioni → Impostazioni OctoGram → Apparenza → App",
+        "en": "🧠 ARTIFICIAL INTELLIGENCE\nYou can now integrate providers like Google Gemini, ChatGPT, or OpenRouter directly into your messaging app!\nWith AI, you can:\n• Instantly translate messages, even those written in dialect\n• Instantly understand the context of a chat, even with many unread messages\n\n🛠 CUSTOM AI MODELS\nCreate your own models (or use preset ones) to tailor the AI to your needs.\nGo to: Settings → OctoGram Settings → AI Features → Create New Model\nNot sure how it works? Try one of our models: t.me/OctoModels\n\n🌍 QUICK TRANSLATION\nDouble-tap a message to instantly translate it!\nYou can manage this feature from:\nSettings → OctoGram Settings → General → Double Tap Action\n\n🎨 CUSTOMIZABLE APPEARANCE\nYou can now customize the quick action buttons in the chat list:\n• Choose what to show\n• Hide what you don’t need\n• Set an action for long-press\nManage them from: Settings → OctoGram Settings → Appearance → Quick Actions"
+      },
+      "beta": false
+    },
+    {
       "version": "3.0.4",
       "versionCode": 3640,
       "sticker": 257,
