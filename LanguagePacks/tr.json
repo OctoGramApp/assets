@@ -123,6 +123,8 @@
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example1": "Kaç kişi var?",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example2": "Ayarları açıkla",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example3": "İçeriği özetleyebilir misin?",
+    "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example4": "Can you recap what it says?",
+    "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example5": "What it says?",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Brief": "Soru",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Done": "Yapay zeka sorunuza yanıt verdi",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Done_Brief": "Yapay zekaya sor",

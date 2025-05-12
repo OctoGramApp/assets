@@ -123,6 +123,8 @@
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example1": "Сколько там человек?",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example2": "Опишите настройки",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example3": "Можете ли вы вкратце пересказать содержание?",
+    "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example4": "Can you recap what it says?",
+    "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example5": "What it says?",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Brief": "Вопрос",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Done": "ИИ ответил на ваш вопрос",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Done_Brief": "Спросить у ИИ",

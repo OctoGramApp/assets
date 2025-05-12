@@ -123,6 +123,8 @@
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example1": "Ile tu jest osób?",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example2": "Opisz otoczenie",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example3": "Czy możesz streścić zawartość?",
+    "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example4": "Can you recap what it says?",
+    "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example5": "What it says?",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Brief": "Pytanie",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Done": "AI odpowiedziało na Twoje pytanie",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Done_Brief": "Zapytaj AI",

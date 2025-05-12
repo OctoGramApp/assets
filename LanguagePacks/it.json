@@ -123,6 +123,8 @@
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example1": "Quante persone ci sono qui?",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example2": "Descrivi l'impostazione",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example3": "Puoi riassumere il contenuto?",
+    "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example4": "Puoi riassumere cosa dice?",
+    "AiFeatures_CustomModels_Feature_SelectModel_Desc_Ask_Example5": "Cosa dice?",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Brief": "Domanda",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Done": "L' IA ha risposto alla tua domanda",
     "AiFeatures_CustomModels_Feature_SelectModel_Desc_Done_Brief": "Chiedi all'IA",
