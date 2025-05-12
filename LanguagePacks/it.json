@@ -762,7 +762,7 @@
     "ShowUserIconsInChatsList": "Mostra icone utenti nell'elenco delle chat",
     "ShowUserIconsInChatsList_Desc": "Mostra le icone degli utenti nell'elenco delle chat vicino al nome del mittente nei gruppi.",
     "ShowUsernameAsPhoneNumber": "Mostra username",
-    "ShowUsernameAsPhoneNumber_Desc": "Mostra il tuo nome utente come il tuo numero di telefono nel tuo profilo. Questo verrà mostrato solo a te stesso!",
+    "ShowUsernameAsPhoneNumber_Desc": "Mostra il tuo username al posto del numero di telefono nel tuo profilo. Questo verrà mostrato solo a te!",
     "SlidingTitle": "Titolo scorrevole",
     "SlidingTitle_Desc": "Il titolo scorrerà sullo schermo quando è troppo lungo",
     "SmartNotificationsPvtDialogButton": "Abilità notifiche smart",
