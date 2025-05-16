@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "3.1.5",
+      "versionCode": 3670,
+      "sticker": 270,
+      "files": {
+        "x86_64": 275,
+        "universal": 271,
+        "x86": 274,
+        "arm64-v8a": 272,
+        "arm-v7a": 273
+      },
+      "localized_changelogs": {
+        "it": "Questa versione include diverse risoluzioni di bug e crash.",
+        "en": "Several bug and crash fixes."
+      },
+      "beta": false
+    },
+    {
       "version": "3.1.4",
       "versionCode": 3665,
       "sticker": 264,
@@ -31,7 +48,10 @@
         "arm64-v8a": 259,
         "arm-v7a": 260
       },
-      "localized_changelogs": {},
+      "localized_changelogs": {
+        "it": "Questa versione include diverse risoluzioni di bug e crash.",
+        "en": "Several bug and crash fixes."
+      },
       "beta": true
     },
     {
