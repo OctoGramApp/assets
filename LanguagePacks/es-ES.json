@@ -582,7 +582,7 @@
     "MaxRecentSticker_Unlimited": "Ilimitado",
     "MaxRecentStickers": "Máximo de pegatinas recientes",
     "MaxStickerSizeDefault": "20 (por defecto)",
-    "MediaFilter": "",
+    "MediaFilter": "Filtrar por el tipo de medios",
     "MediaFilterItemAll": "No filtrar",
     "MediaFilterItemChatPhotos": "Fotos del chat",
     "MediaFilterItemContacts": "Contactos",
