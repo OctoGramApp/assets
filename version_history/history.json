@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "3.2.1 Beta",
+      "versionCode": 3695,
+      "sticker": 290,
+      "files": {
+        "x86_64": 295,
+        "universal": 291,
+        "x86": 294,
+        "arm64-v8a": 292,
+        "arm-v7a": 293
+      },
+      "localized_changelogs": {
+        "it": "- [NUOVO MENU GENERALE] Include le impostazioni generali per l'interfaccia, le azioni rapide, i set di emoji e il font di sistema.\n- [NUOVO MENU' CHAT] Include tutte le funzioni relative alla chat, dall'aspetto alle opzioni di personalizzazione individuali.\n- [MENU APPARENZA] Include le impostazioni dell'aspetto per il resto del client.\n\nL'applicazione reindirizzerà automaticamente ai nuovi menu se si utilizza un deeplink relativo al vecchio ordine.\n\n- [CHATS] Aggiunta l'opzione per nascondere il pulsante dei regali nei canali.\n- [OPZIONI SPERIMENTALI] Aggiunta l'opzione per abilitare un maggiore feedback aptico nell'interfaccia e una nuova barra di navigazione fluida.\n- [PRIVACY E SICUREZZA] Il menu Privacy e sicurezza è ora molto più dettagliato e aiuta a risolvere rapidamente i problemi se l'impronta digitale non viene riconosciuta (questo può accadere dopo aver aggiunto o modificato un'impronta digitale nelle impostazioni di sistema).\n\n- Correzioni di bug e altri miglioramenti",
+        "en": "- [NEW GENERAL MENU] Includes general settings for interface, quick actions, emoji sets, and system font.\n- [NEW CHATS MENU] Includes all chat-related features, from appearance to individual customization options.\n- [NEW APPEARANCE MENU] Includes appearance settings for the rest of the client.\n\nThe app will automatically redirect to the new menus if a deeplink related to the old order is used.\n\n- [CHATS] Added option to hide the gift button in channels.\n- [EXPERIMENTS] Added option to enable more haptic feedback in the interface and a new fluent navigation bar.\n- [PRIVACY \u0026 SECURITY] The Privacy \u0026 Security menu is now much more detailed and helps quickly resolve issues if fingerprint isn’t recognized (this can happen after adding or editing a fingerprint in system settings).\n\n- Bug fixes and other improvements"
+      },
+      "beta": true
+    },
+    {
       "version": "3.1.6",
       "versionCode": 3675,
       "sticker": 276,
