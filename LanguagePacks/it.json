@@ -72,7 +72,7 @@
     "AiFeatures_AccessVia_Login_Step2_Url_Hint": "Your API Url",
     "AiFeatures_AccessVia_Login_Step3": "%s è stato configurato correttamente.",
     "AiFeatures_AccessVia_OpenRouterAPI": "API OpenRouter",
-    "AiFeatures_AccessVia_SelectableOne": "You can select the provider to use directly when using the AI feature. The app will remember the last option.",
+    "AiFeatures_AccessVia_SelectableOne": "Puoi selezionare il fornitore da usare con le funzionalità di IA. L'app ricorderà la tua ultima scelta.",
     "AiFeatures_Brief": "Funzionalità IA",
     "AiFeatures_Brief_Settings": "Impostazioni IA",
     "AiFeatures_CustomModels": "Modelli Personalizzati",
