@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "3.2.2",
+      "versionCode": 3710,
+      "sticker": 302,
+      "files": {
+        "x86_64": 307,
+        "universal": 303,
+        "x86": 306,
+        "arm64-v8a": 304,
+        "arm-v7a": 305
+      },
+      "localized_changelogs": {
+        "it": "📥 MENU' DEI MESSAGGI COMPLETAMENTE PERSONALIZZABILE\nIl menu contestuale dei messaggi è ora totalmente personalizzabile, grazie a una nuovissima interfaccia.\nOra è possibile:\n- semplificare il layout trasformando le opzioni principali in icone\n- raggruppare le funzioni in categorie, per mantenere il menu pulito e organizzato\n- scegliere esattamente cosa e come apparire\n\nOgni tocco è importante: fallo valere.\nConfigura tutto tramite:\nImpostazioni → Impostazioni OctoGram → Aspetto → Menu contestuale\n\n🧩 CARATTERISTICHE MINORI\n- È ora possibile scegliere l'azione predefinita del pulsante del microfono (in Impostazioni → Impostazioni OctoGram → Chat).\n- È ora possibile nascondere il pulsante regalo nei canali (in Impostazioni → Impostazioni OctoGram → Chat).\n- È ora possibile abilitare più feedback aptici nell'interfaccia utente (in Impostazioni → Impostazioni OctoGram → Esperimenti).\n- È ora possibile scegliere di mantenere il nome del file predefinito durante il download (in Impostazioni → Impostazioni OctoGram → Chat).",
+        "en": "📥 FULLY CUSTOMIZABLE MESSAGE MENUS\nThe message context menu is now yours to shape — thanks to a brand new interface.\nYou can now:\n- Simplify the layout by turning main options into icons\n- Group features into categories, keeping your menu clean and organized\n- Choose exactly what appears, and how\n\nEvery tap matters — make it count.\nConfigure it all via:\nSettings → OctoGram Settings → Appearance → Message Menu\n\n🧩 MINOR FEATURES\n- You can now choose the default microphone button action (in Settings → OctoGram Settings → Chats).\n- You can now hide gift button in channels (in Settings → OctoGram Settings → Chats).\n- You can now enable more haptic feedbacks in the UI (in Settings → OctoGram Settings → Experiments).\n- You can now choose to keep default file name on download (in Settings → OctoGram Settings → Chats)."
+      },
+      "beta": false
+    },
+    {
       "version": "3.2.1 Beta",
       "versionCode": 3695,
       "sticker": 290,
