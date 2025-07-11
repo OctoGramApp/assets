@@ -5,6 +5,23 @@
   "versions": [
     {
       "version": "3.2.3 Beta",
+      "versionCode": 3725,
+      "sticker": 329,
+      "files": {
+        "x86_64": 334,
+        "universal": 330,
+        "x86": 333,
+        "arm64-v8a": 331,
+        "arm-v7a": 332
+      },
+      "localized_changelogs": {
+        "it": "- Traduzione locale sul dispositivo è stata aggiunta e si può attivare dalle impostazioni\n- Correzioni di bug e altri miglioramenti",
+        "en": "- On-Device translation has been added and can be enabled from settings\n- Bug fixes \u0026 other improvements"
+      },
+      "beta": true
+    },
+    {
+      "version": "3.2.3 Beta",
       "versionCode": 3720,
       "sticker": 323,
       "files": {
