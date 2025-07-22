@@ -323,7 +323,7 @@
     "DatacenterStatusSection_Stop": "Zatrzymaj monitorowanie",
     "DatacenterStatusSection_Tab_Media": "Multimedia",
     "DatacenterStatusSection_Tab_Network": "Sieć",
-    "DatacenterStatusSection_Tab_Web": "Sieć",
+    "DatacenterStatusSection_Tab_Web": "Web",
     "DatacenterStatusSection_TermsAccept": "Kontynuując, akceptujesz <![CDATA[<a href=\"https://%s/dcterms\">Warunki Usługi</a>]]> Monitorowania CD.",
     "DatacenterStatusSection_TestBackend": "Testowy backend",
     "DatacenterStatusSection_TestBackend_Desc": "Testy pobierania nie są dostępne w testowych backendach.",
