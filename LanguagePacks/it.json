@@ -695,7 +695,7 @@
     "OfficialChannel": "Canale Ufficiale",
     "OfficialGroup": "Gruppo Ufficiale",
     "OfficialPbetaChat": "Chat Beta Privata",
-    "OnDeviceModelsHint": "These models have been downloaded to your device for offline translation. You can remove them to free up space.",
+    "OnDeviceModelsHint": "Questi modelli sono stati scaricati sul tuo dispositivo per le traduzioni offline. Puoi rimuoverli per liberare spazio.",
     "OnDeviceTranslationModels": "Modelli di traduzione sul dispositivo",
     "OnDeviceTranslationModels_Manage": "Gestisci i modelli scaricati per le traduzioni",
     "OnDeviceTranslationModels_UnsupportedVersion": "Stai utilizzando una versione obsoleta dell’estensione OctoGram – OnDevice. Aggiorna alla versione **%1$s** (**%2$d**) o superiore.",
