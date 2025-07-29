@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "3.2.7",
+      "versionCode": 3755,
+      "sticker": 335,
+      "files": {
+        "x86_64": 340,
+        "universal": 336,
+        "x86": 339,
+        "arm64-v8a": 337,
+        "arm-v7a": 338
+      },
+      "localized_changelogs": {
+        "it": "📍 TRADUZIONE LOCALE SUL DISPOSITIVO\nOra puoi attivare la traduzione in locale senza l'utilizzo di servizi in-cloud come Google. Puoi attivarla da Impostazioni → Impostazioni OctoGram → Chat → Traduttore → Fornitore.\n\n📰 TRADUZIONE DEGLI ARTICOLI\nOra puoi tradurre gli articoli come quelli dei link telegra.ph direttamente in-app grazie al nuovo supporto integrato. Ti basta premere sui 3 puntini di un articolo e cliccare su \"Traduci\".\n\n🧩 CARATTERISTICHE MINORI\n- Ora puoi utilizzare anche Google Cloud per le traduzioni, in alternativa alla classica opzione di Google Translate.\n- Ora puoi scegliere di nascondere il menù condividi accanto ai messaggi nei canali. Scopri di più in Impostazioni → Impostazioni OctoGram → Chat.\n- Il sistema di aggiornamenti è stato riscritto totalmente per una maggiore affidabilità e velocità.",
+        "en": "📍 LOCAL TRANSLATION ON YOUR DEVICE\nYou can now enable local translation without using cloud services such as Google. You can enable it from Settings → OctoGram Settings → Chat → Translator → Provider.\n\n📰 ARTICLE TRANSLATION\nYou can now translate articles such as those from telegra.ph links directly in-app thanks to the new built-in support. Just tap on the 3 dots of an article and click on \"Translate\".\n\n🧩 MINOR FEATURES\n- You can now also use Google Cloud for translations, as an alternative to the classic Google Translate option.\n- You can now choose to hide the share menu next to messages in channels. Find out more in Settings → OctoGram Settings → Chat.\n- The update system has been completely rewritten for greater reliability and speed."
+      },
+      "beta": false
+    },
+    {
       "version": "3.2.3 Beta",
       "versionCode": 3725,
       "sticker": 329,
