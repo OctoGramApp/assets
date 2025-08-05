@@ -2,6 +2,17 @@
   "channel_username": "r2YnFscExDf6d3h4wpGy8SbjqPLNk7vh",
   "channel_id": -1002087211608,
   "pbeta_sticker_id": 46,
+  "extension_update": {
+    "channel_username": "OctoGramBeta",
+    "versionCode": 5,
+    "files": {
+      "universal": 247
+    },
+    "localized_changelogs": {
+      "it": "Questa versione include diverse risoluzioni di bug e crash.",
+      "en": "Several bug and crash fixes."
+    }
+  },
   "versions": [
     {
       "version": "3.2.7",
