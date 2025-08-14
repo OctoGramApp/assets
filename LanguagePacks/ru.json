@@ -253,7 +253,7 @@
     "CodeFormat": "Формат кода",
     "CodeLicense": "Лицензия проекта",
     "ContextMenu": "Контекстное меню",
-    "ContextMenuBriefingState": "Информационное состояние",
+    "ContextMenuBriefingState": "Briefing State",
     "ContextMenuBriefingState_Disabled": "Выключено",
     "ContextMenuBriefingState_Shortcuts": "Использование ярлыков",
     "ContextMenuBriefingState_Shortcuts_Bottom": "Переместить ярлыки вниз",
