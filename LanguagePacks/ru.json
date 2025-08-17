@@ -426,7 +426,7 @@
     "EmojiSets_Desc": "Настройка наборов эмодзи",
     "EnableSmartNotificationsForPrivateChats": "Умные уведомления",
     "Error": "Ошибка",
-    "ErrorEmojiFontInvalidFormat": "Файл должен представлять собой файл шрифта эмодзи.",
+    "ErrorEmojiFontInvalidFormat": "File must be an emoji font file.",
     "ErrorSendingCrashContent": "Произошла ошибка при отправке журналов сбоев",
     "EventType": "Тип события по умолчанию",
     "ExperimentalSettings": "Экспериментальные настройки",
