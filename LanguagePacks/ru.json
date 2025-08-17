@@ -694,7 +694,7 @@
     "OctoTgBrowserOpenFail_Desc": "Выбранная операция недоступна, поскольку встроенный браузер в приложении отключен.",
     "OfficialChannel": "Официальный канал",
     "OfficialGroup": "Официальная группа",
-    "OfficialPbetaChat": "Приватный Бета Чат",
+    "OfficialPbetaChat": "Private Beta Chat",
     "OnDeviceModelsHint": "Эти модели загружены на ваше устройство для офлайн перевода. Вы можете удалить их, чтобы освободить место.",
     "OnDeviceTranslationModels": "Модели на устройстве",
     "OnDeviceTranslationModels_Manage": "Управление загруженными моделями для переводов",
