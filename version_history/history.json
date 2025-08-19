@@ -15,6 +15,23 @@
   },
   "versions": [
     {
+      "version": "3.3.0",
+      "versionCode": 3760,
+      "sticker": 347,
+      "files": {
+        "x86_64": 352,
+        "universal": 348,
+        "x86": 351,
+        "arm64-v8a": 349,
+        "arm-v7a": 350
+      },
+      "localized_changelogs": {
+        "it": "🧩 CARATTERISTICHE MINORI\n- Ora puoi selezionare una nuova icona con un nuovo effetto vetro dalle impostazioni. Questa nuova icona è disponibile per tutti.\n- Ora puoi abilitare la trascrizione AI dei messaggi vocali e, se preferisci, utilizzarla in sostituzione della trascrizione Telegram. La trascrizione AI non richiede Telegram Premium. (Impostazioni → Impostazioni OctoGram → Chat → Funzionalità AI)\n- Il nostro sistema di aggiornamenti ora supporta anche gli aggiornamenti delle estensioni per coloro che utilizzano la traduzione locale sul dispositivo. Se sono disponibili nuovi aggiornamenti delle estensioni, questi verranno proposti come qualsiasi altro aggiornamento dell'app.\n- Ora puoi scegliere di disabilitare la pila di schede di Telegram e chiudere direttamente le finestre quando si trascina verso il basso una finestra del browser o un'applicazione web (Impostazioni → Impostazioni OctoGram → Impostazioni sperimentali).",
+        "en": "🧩 MINOR FEATURES\n- You can now select a new icon with a new glass effect from the settings. This new icon is available to everyone.\n- You can now enable AI transcription of voice messages and, if you wish, use it as a replacement for Telegram transcription. AI transcription does not require Telegram Premium. (Settings → OctoGram Settings → Chat → AI Features)\n- Our updater now also supports extension updates for those who use translation on their device. If there are new extension updates, they will be offered like any other app update.\n- You can now choose to disable Telegram's tab stack and close windows directly when you drag down a browser window or web app (Settings → OctoGram Settings → Experimental Settings)."
+      },
+      "beta": false
+    },
+    {
       "version": "3.2.7",
       "versionCode": 3755,
       "sticker": 335,
