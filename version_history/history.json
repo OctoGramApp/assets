@@ -19,11 +19,11 @@
       "versionCode": 3760,
       "sticker": 347,
       "files": {
-        "x86_64": 352,
         "universal": 348,
-        "x86": 351,
         "arm64-v8a": 349,
-        "arm-v7a": 350
+        "arm-v7a": 350,
+        "x86": 351,
+        "x86_64": 352
       },
       "localized_changelogs": {
         "it": "🧩 CARATTERISTICHE MINORI\n- Ora puoi selezionare una nuova icona con un nuovo effetto vetro dalle impostazioni. Questa nuova icona è disponibile per tutti.\n- Ora puoi abilitare la trascrizione AI dei messaggi vocali e, se preferisci, utilizzarla in sostituzione della trascrizione Telegram. La trascrizione AI non richiede Telegram Premium. (Impostazioni → Impostazioni OctoGram → Chat → Funzionalità AI)\n- Il nostro sistema di aggiornamenti ora supporta anche gli aggiornamenti delle estensioni per coloro che utilizzano la traduzione locale sul dispositivo. Se sono disponibili nuovi aggiornamenti delle estensioni, questi verranno proposti come qualsiasi altro aggiornamento dell'app.\n- Ora puoi scegliere di disabilitare la pila di schede di Telegram e chiudere direttamente le finestre quando si trascina verso il basso una finestra del browser o un'applicazione web (Impostazioni → Impostazioni OctoGram → Impostazioni sperimentali).",
@@ -36,11 +36,11 @@
       "versionCode": 3755,
       "sticker": 335,
       "files": {
-        "x86_64": 340,
         "universal": 336,
-        "x86": 339,
         "arm64-v8a": 337,
-        "arm-v7a": 338
+        "arm-v7a": 338,
+        "x86": 339,
+        "x86_64": 340
       },
       "localized_changelogs": {
         "it": "📍 TRADUZIONE LOCALE SUL DISPOSITIVO\nOra puoi attivare la traduzione in locale senza l'utilizzo di servizi in-cloud come Google. Puoi attivarla da Impostazioni → Impostazioni OctoGram → Chat → Traduttore → Fornitore.\n\n📰 TRADUZIONE DEGLI ARTICOLI\nOra puoi tradurre gli articoli come quelli dei link telegra.ph direttamente in-app grazie al nuovo supporto integrato. Ti basta premere sui 3 puntini di un articolo e cliccare su \"Traduci\".\n\n🧩 CARATTERISTICHE MINORI\n- Ora puoi utilizzare anche Google Cloud per le traduzioni, in alternativa alla classica opzione di Google Translate.\n- Ora puoi scegliere di nascondere il menù condividi accanto ai messaggi nei canali. Scopri di più in Impostazioni → Impostazioni OctoGram → Chat.\n- Il sistema di aggiornamenti è stato riscritto totalmente per una maggiore affidabilità e velocità.",
@@ -53,11 +53,11 @@
       "versionCode": 3725,
       "sticker": 329,
       "files": {
-        "x86_64": 334,
         "universal": 330,
-        "x86": 333,
         "arm64-v8a": 331,
-        "arm-v7a": 332
+        "arm-v7a": 332,
+        "x86": 333,
+        "x86_64": 334
       },
       "localized_changelogs": {
         "it": "- Traduzione locale sul dispositivo è stata aggiunta e si può attivare dalle impostazioni\n- Correzioni di bug e altri miglioramenti",
@@ -70,11 +70,11 @@
       "versionCode": 3720,
       "sticker": 323,
       "files": {
-        "x86_64": 328,
         "universal": 324,
-        "x86": 327,
         "arm64-v8a": 325,
-        "arm-v7a": 326
+        "arm-v7a": 326,
+        "x86": 327,
+        "x86_64": 328
       },
       "localized_changelogs": {
         "it": "- Traduzione locale sul dispositivo è stata aggiunta e si può attivare dalle impostazioni\n- Correzioni di bug e altri miglioramenti",
@@ -87,11 +87,11 @@
       "versionCode": 3710,
       "sticker": 302,
       "files": {
-        "x86_64": 307,
         "universal": 303,
-        "x86": 306,
         "arm64-v8a": 304,
-        "arm-v7a": 305
+        "arm-v7a": 305,
+        "x86": 306,
+        "x86_64": 307
       },
       "localized_changelogs": {
         "it": "📥 MENU' DEI MESSAGGI COMPLETAMENTE PERSONALIZZABILE\nIl menu contestuale dei messaggi è ora totalmente personalizzabile, grazie a una nuovissima interfaccia.\nOra è possibile:\n- semplificare il layout trasformando le opzioni principali in icone\n- raggruppare le funzioni in categorie, per mantenere il menu pulito e organizzato\n- scegliere esattamente cosa e come apparire\n\nOgni tocco è importante: fallo valere.\nConfigura tutto tramite:\nImpostazioni → Impostazioni OctoGram → Aspetto → Menu contestuale\n\n🧩 CARATTERISTICHE MINORI\n- È ora possibile scegliere l'azione predefinita del pulsante del microfono (in Impostazioni → Impostazioni OctoGram → Chat).\n- È ora possibile nascondere il pulsante regalo nei canali (in Impostazioni → Impostazioni OctoGram → Chat).\n- È ora possibile abilitare più feedback aptici nell'interfaccia utente (in Impostazioni → Impostazioni OctoGram → Esperimenti).\n- È ora possibile scegliere di mantenere il nome del file predefinito durante il download (in Impostazioni → Impostazioni OctoGram → Chat).",
@@ -104,11 +104,11 @@
       "versionCode": 3695,
       "sticker": 290,
       "files": {
-        "x86_64": 295,
         "universal": 291,
-        "x86": 294,
         "arm64-v8a": 292,
-        "arm-v7a": 293
+        "arm-v7a": 293,
+        "x86": 294,
+        "x86_64": 295
       },
       "localized_changelogs": {
         "it": "- [NUOVO MENU GENERALE] Include le impostazioni generali per l'interfaccia, le azioni rapide, i set di emoji e il font di sistema.\n- [NUOVO MENU' CHAT] Include tutte le funzioni relative alla chat, dall'aspetto alle opzioni di personalizzazione individuali.\n- [MENU APPARENZA] Include le impostazioni dell'aspetto per il resto del client.\n\nL'applicazione reindirizzerà automaticamente ai nuovi menu se si utilizza un deeplink relativo al vecchio ordine.\n\n- [CHATS] Aggiunta l'opzione per nascondere il pulsante dei regali nei canali.\n- [OPZIONI SPERIMENTALI] Aggiunta l'opzione per abilitare un maggiore feedback aptico nell'interfaccia e una nuova barra di navigazione fluida.\n- [PRIVACY E SICUREZZA] Il menu Privacy e sicurezza è ora molto più dettagliato e aiuta a risolvere rapidamente i problemi se l'impronta digitale non viene riconosciuta (questo può accadere dopo aver aggiunto o modificato un'impronta digitale nelle impostazioni di sistema).\n\n- Correzioni di bug e altri miglioramenti",
@@ -121,11 +121,11 @@
       "versionCode": 3675,
       "sticker": 276,
       "files": {
-        "x86_64": 281,
         "universal": 277,
-        "x86": 280,
         "arm64-v8a": 278,
-        "arm-v7a": 279
+        "arm-v7a": 279,
+        "x86": 280,
+        "x86_64": 281
       },
       "localized_changelogs": {
         "it": "Correzioni di bug e altri miglioramenti",
@@ -138,11 +138,11 @@
       "versionCode": 3670,
       "sticker": 270,
       "files": {
-        "x86_64": 275,
         "universal": 271,
-        "x86": 274,
         "arm64-v8a": 272,
-        "arm-v7a": 273
+        "arm-v7a": 273,
+        "x86": 274,
+        "x86_64": 275
       },
       "localized_changelogs": {
         "it": "Correzioni di bug e altri miglioramenti",
@@ -155,11 +155,11 @@
       "versionCode": 3665,
       "sticker": 264,
       "files": {
-        "x86_64": 269,
         "universal": 265,
-        "x86": 268,
         "arm64-v8a": 266,
-        "arm-v7a": 267
+        "arm-v7a": 267,
+        "x86": 268,
+        "x86_64": 269
       },
       "localized_changelogs": {
         "it": "🧠 INTELLIGENZA ARTIFICIALE\nOra puoi integrare fornitori come Google Gemini, ChatGPT o OpenRouter direttamente nella tua app di messaggistica!\nCon l’IA puoi:\n• Tradurre istantaneamente i messaggi, anche in dialetto\n• Comprendere subito il contesto di una chat affollata, anche con molti messaggi non letti\n\n🛠 MODELLI PERSONALIZZATI DI IA\nCrea modelli personalizzati (o usa quelli preimpostati) per adattare l’intelligenza artificiale alle tue esigenze.\nVai su: Impostazioni → Impostazioni OctoGram → Funzionalità AI → Crea nuovo modello\nHai bisogno di ispirazione? Prova subito uno dei nostri modelli: t.me/OctoModels\n\n🌍 TRADUZIONE RAPIDA\nTocca due volte un messaggio per tradurlo all’istante!\nAttiva o disattiva questa funzione da:\nImpostazioni → Impostazioni OctoGram → Generali → Azione doppio tap\n\n🎨 APPARENZA PERSONALIZZABILE\nOra puoi personalizzare i bottoni rapidi nella lista chat:\n• Scegli cosa mostrare\n• Decidi cosa nascondere\n• Imposta l’azione alla pressione prolungata\nGestiscili da: Impostazioni → Impostazioni OctoGram → Apparenza → App",
@@ -172,11 +172,11 @@
       "versionCode": 3640,
       "sticker": 257,
       "files": {
-        "x86_64": 262,
         "universal": 258,
-        "x86": 261,
         "arm64-v8a": 259,
-        "arm-v7a": 260
+        "arm-v7a": 260,
+        "x86": 261,
+        "x86_64": 262
       },
       "localized_changelogs": {
         "it": "Questa versione include diverse risoluzioni di bug e crash.",
@@ -189,11 +189,11 @@
       "versionCode": 3635,
       "sticker": 245,
       "files": {
-        "x86_64": 250,
         "universal": 246,
-        "x86": 249,
         "arm64-v8a": 247,
-        "arm-v7a": 248
+        "arm-v7a": 248,
+        "x86": 249,
+        "x86_64": 250
       },
       "localized_changelogs": {
         "it": "NUOVE IMPOSTAZIONI SULLA PRIVACY\nDa oggi è possibile:\n- Bloccare singole chat (dai 3 punti o dall'elenco delle chat)\n- Bloccare singole azioni (cronologia delle chiamate, chat segrete, impostazioni)\nIl doppio fondo, o blocco dell'account, è stato radicalmente modificato con un'interfaccia e un'esperienza più veloci e innovative.\nLe nuove opzioni si basano sullo sblocco tramite impronta digitale ed è anche possibile abilitare lo sblocco tramite PIN del dispositivo o tramite volto.\nIl tutto può essere configurato nel nuovo menu delle impostazioni.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Privacy e sicurezza.\n\nSTATO DC\nL'opzione Stato DC è ora più completa e presenta due nuove funzioni:\n- Media monitor per provare a scaricare dai 5 DC di Telegram\n- Web monitor per provare il ping verso i principali siti di Telegram\n\nPINNED HASHTAGS\nOra potete scegliere i vostri hashtag preferiti che appariranno sempre prima degli altri. \nSe avete già usato frequentemente gli hashtag nelle chat, apparirà un suggerimento per appuntarli rapidamente.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Generale =\u003e Hashtag appuntati.\n\nCARATTERISTICHE MINORI\n- È ora possibile condividere un link a un'opzione delle impostazioni di OctoGram tenendo premuto sulla barra delle azioni di una pagina specifica.\n- Miglioramento dell'inizializzazione della fotocamera e del rilevamento e gestione della fotocamera grandangolare.\n- Tutti i link e i dettagli di OctoGram fanno ora parte di un'unica pagina: scopritela in Impostazioni di OctoGram =\u003e Scopri di più (ispirato a CherryGram).",
@@ -206,11 +206,11 @@
       "versionCode": 3615,
       "sticker": 238,
       "files": {
-        "x86_64": 243,
         "universal": 239,
-        "x86": 242,
         "arm64-v8a": 240,
-        "arm-v7a": 241
+        "arm-v7a": 241,
+        "x86": 242,
+        "x86_64": 243
       },
       "localized_changelogs": {
         "it": "REAZIONI FISSATE\nÈ ora possibile scegliere le proprie reazioni preferite che appariranno sempre prima delle altre. È possibile scegliere elenchi diversi tra chat e canali.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Generale =\u003e Reazioni fissare.\n\nPRESET QUALITÀ\nÈ ora possibile scegliere la qualità preferita per ottimizzare l'utilizzo dei dati di rete.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nCARATTERISTICHE MINORI\n- È ora possibile aggiungere il pulsante “Rispondi in chat privata” come elemento del menu contestuale.\n- È ora possibile minimizzare la barra di traduzione per nasconderla senza rimuovere i messaggi tradotti.\n- È ora possibile utilizzare i provider Baidu/Lingo per tradurre i messaggi (grazie a Nekogram).",
@@ -223,11 +223,11 @@
       "versionCode": 3570,
       "sticker": 230,
       "files": {
-        "x86_64": 235,
         "universal": 231,
-        "x86": 234,
         "arm64-v8a": 232,
-        "arm-v7a": 233
+        "arm-v7a": 233,
+        "x86": 234,
+        "x86_64": 235
       },
       "localized_changelogs": {
         "it": "EMOJI FISSATE\nOra puoi fissare tutte le tue emoji preferite (statiche o animate) che appariranno come prime nella sezione emoji! Maggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Generali =\u003e Emoji fissate.\n\nNASCONDI LE CARTELLE SELEZIONATE\nÈ ora possibile scegliere di nascondere, senza eliminare, tutte le cartelle desiderate. È possibile farlo dalle impostazioni delle cartelle o tenendo premuto su una cartella nell'elenco delle chat. Maggiori dettagli in Impostazioni =\u003e Cartelle.\n\nNUOVE OPZIONI PER LE CHAT\nAbbiamo aggiunto tre nuove opzioni per gestire l'interfaccia delle chat:\n- Nascondi barra inferiore nei canali per nascondere la barra “mute/unmute”.\n- Nascondi il pulsante di apertura nell'elenco delle chat per nascondere il pulsante di “apertura” per i bot legati alle webapp.\n- Espandi sempre le virgolette per nascondere il pulsante “espandi” nelle virgolette lunghe.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nNUOVA SCORCIATOIA PER RISPONDERE DIRETTAMENTE IN CHAT PRIVATA\nAbbiamo aggiunto una nuova scorciatoia per rispondere direttamente nella chat privata senza selezionare manualmente la chat. È possibile utilizzarla facendo clic sulla barra delle risposte.\nPresto aggiungeremo questa opzione anche come menu contestuale per i messaggi.\n\nNUOVE SCORCIATOIE PER L'AMMINISTRATORE\nDopo molte richieste, abbiamo deciso di aggiungere le scorciatoie per gli amministratori. È possibile scegliere tra 3 diverse posizioni di scorciatoie. Scoprile tu stesso!\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aspetto =\u003e Chat.\n\nCARATTERISTICHE MINORI\n- È ora possibile salvare un backup prima di ripristinare le impostazioni di OctoGram.\n- È ora possibile scegliere la posizione preferita del pulsante della fotocamera (maggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Camera - grazie a CherryGram).\n- È ora possibile premere a lungo su un utente mentre lo si nomina per menzionarlo senza nome utente.",
@@ -240,11 +240,11 @@
       "versionCode": 3560,
       "sticker": 210,
       "files": {
-        "x86_64": 215,
         "universal": 211,
-        "x86": 214,
         "arm64-v8a": 212,
-        "arm-v7a": 213
+        "arm-v7a": 213,
+        "x86": 214,
+        "x86_64": 215
       },
       "localized_changelogs": {
         "it": "SELEZIONA LO STILE PREFERITO DI CARTELLE E SCHEDE\nOra puoi personalizzare lo stile che preferite nelle cartelle e nelle schede, in modo molto più intelligente e granulare.\nE... per la prima volta su un client Android\n- 🔢 È possibile scegliere di mostrare il conteggio dei messaggi non letti invece del conteggio delle chat non lette.\n- 🔇 È possibile scegliere se includere o meno le chat non lette nel contatore dei messaggi non letti.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aspetto =\u003e App.\n\nSELEZIONA LO STILE DI SCORRIMENTO PREFERITO\nOra puoi scegliere lo stile che preferite per i cursori.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aspetto =\u003e App.\n\nPROFILO COME BOLLA\nÈ ora possibile attivare una nuova visualizzazione per la parte del profilo nell'intestazione.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aspetto =\u003e Cassetto.\n\nSELEZIONARE LA DURATA IN MODO PIÙ RAPIDO\nQuando si cancella rapidamente un messaggio e si sceglie di bannare/mutare un utente, è ora possibile scegliere la durata della punizione.\n\nCARATTERISTICHE MINORI\n- È ora possibile scegliere di rendere l'icona dei download sempre visibile nell'intestazione. È possibile attivarla in Impostazioni =\u003e Impostazioni di OctoGram =\u003e Aspetto.\n- È ora possibile premere a lungo il pulsante “nuova storia” per aprire i messaggi salvati.\n- È ora possibile condividere direttamente in altre app premendo a lungo su un link nelle chat.\n- La funzione “Nascondi la cartella ‘tutte le chat’” è ora disponibile per tutti.",
@@ -257,11 +257,11 @@
       "versionCode": 3540,
       "sticker": 198,
       "files": {
-        "x86_64": 203,
         "universal": 199,
-        "x86": 202,
         "arm64-v8a": 200,
-        "arm-v7a": 201
+        "arm-v7a": 201,
+        "x86": 202,
+        "x86_64": 203
       },
       "localized_changelogs": {
         "it": "Questa versione include diverse risoluzioni di bug e crash.",
@@ -274,11 +274,11 @@
       "versionCode": 3537,
       "sticker": 190,
       "files": {
-        "x86_64": 195,
         "universal": 191,
-        "x86": 194,
         "arm64-v8a": 192,
-        "arm-v7a": 193
+        "arm-v7a": 193,
+        "x86": 194,
+        "x86_64": 195
       },
       "localized_changelogs": {
         "en": "Force Monet Icon on Android 12 Only\nAdded full support for CameraX in Photo / Video\nAdded new CameraX Effect (Bokeh, Face Retouch)"
@@ -290,11 +290,11 @@
       "versionCode": 3530,
       "sticker": 178,
       "files": {
-        "x86_64": 183,
         "universal": 179,
-        "x86": 182,
         "arm64-v8a": 180,
-        "arm-v7a": 181
+        "arm-v7a": 181,
+        "x86": 182,
+        "x86_64": 183
       },
       "localized_changelogs": {
         "it": "Questa versione include diverse risoluzioni di bug e crash.",
@@ -307,11 +307,11 @@
       "versionCode": 3525,
       "sticker": 172,
       "files": {
-        "x86_64": 177,
         "universal": 173,
-        "x86": 176,
         "arm64-v8a": 174,
-        "arm-v7a": 175
+        "arm-v7a": 175,
+        "x86": 176,
+        "x86_64": 177
       },
       "localized_changelogs": {
         "it": "TITOLO CENTRATO\nÈ ora possibile scegliere di centrare il titolo nell'app, proprio come avviene da sempre su Telegram per iOS. Inoltre, è possibile scegliere se centrarlo ovunque o solo nelle chat o solo nelle impostazioni.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nDESIGN PERSONALIZZABILE DEGLI INTERRUTTORI E CASELLE DI CONTROLLO\nOra potete scegliere lo stile che preferite per gli interruttori e le caselle di controllo che si applicheranno ovunque all'interno dell'app.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nNON CHIEDERE MAI CONFERMA NELLE IMPOSTAZIONI DEL BROWSER\nÈ ora possibile aggiungere un elenco di domini preferiti per i quali l'app non chiederà conferma prima dell'apertura.\nSi noti che lo stesso comportamento si applica già all'elenco di domini che fanno parte della whitelist ufficiale di Telegram.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni Chat =\u003e Browser In-App =\u003e Non chiedere mai conferma.\n\nICONE SOLARI E MD3\nOra potete scegliere il vostro set di icone preferite che appariranno in tutta l'app.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nMIGLIORE GESTIONE DELLA FOTOCAMERA\nOltre alla possibilità di scegliere CameraX per le vostre foto, potete anche scegliere di utilizzare Camera2. Scegliete l'opzione più adatta in base al supporto del vostro dispositivo.\n\nMIGLIORE SUPPORTO DEL BROWSER TELEGRAM\nÈ ora possibile aggiungere il browser come elemento del cassetto o come opzione preferita in alto.\nInoltre, tutte le pagine delle impostazioni di OctoGram si aprono ora nel browser di Telegram, se attivo.\n\nNUOVI EFFETTI\nScoprite la nuova animazione presente nella homepage delle impostazioni di OctoGram.\nC'è un easter egg!",
@@ -324,11 +324,11 @@
       "versionCode": 3520,
       "sticker": 166,
       "files": {
-        "x86_64": 171,
         "universal": 167,
-        "x86": 170,
         "arm64-v8a": 168,
-        "arm-v7a": 169
+        "arm-v7a": 169,
+        "x86": 170,
+        "x86_64": 171
       },
       "localized_changelogs": {
         "it": "TITOLO CENTRATO\nÈ ora possibile scegliere di centrare il titolo nell'app, proprio come avviene da sempre su Telegram per iOS. Inoltre, è possibile scegliere se centrarlo ovunque o solo nelle chat o solo nelle impostazioni.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nDESIGN PERSONALIZZABILE DEGLI INTERRUTTORI E CASELLE DI CONTROLLO\nOra potete scegliere lo stile che preferite per gli interruttori e le caselle di controllo che si applicheranno ovunque all'interno dell'app.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nNON CHIEDERE MAI CONFERMA NELLE IMPOSTAZIONI DEL BROWSER\nÈ ora possibile aggiungere un elenco di domini preferiti per i quali l'app non chiederà conferma prima dell'apertura.\nSi noti che lo stesso comportamento si applica già all'elenco di domini che fanno parte della whitelist ufficiale di Telegram.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni Chat =\u003e Browser In-App =\u003e Non chiedere mai conferma.\n\nICONE SOLARI E MD3\nOra potete scegliere il vostro set di icone preferite che appariranno in tutta l'app.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nMIGLIORE GESTIONE DELLA FOTOCAMERA\nOltre alla possibilità di scegliere CameraX per le vostre foto, potete anche scegliere di utilizzare Camera2. Scegliete l'opzione più adatta in base al supporto del vostro dispositivo.\n\nMIGLIORE SUPPORTO DEL BROWSER TELEGRAM\nÈ ora possibile aggiungere il browser come elemento del cassetto o come opzione preferita in alto.\nInoltre, tutte le pagine delle impostazioni di OctoGram si aprono ora nel browser di Telegram, se attivo.\n\nNUOVI EFFETTI\nScoprite la nuova animazione presente nella homepage delle impostazioni di OctoGram.\nC'è un easter egg!",
@@ -341,11 +341,11 @@
       "versionCode": 3510,
       "sticker": 145,
       "files": {
-        "x86_64": 150,
         "universal": 146,
-        "x86": 149,
         "arm64-v8a": 147,
-        "arm-v7a": 148
+        "arm-v7a": 148,
+        "x86": 149,
+        "x86_64": 150
       },
       "localized_changelogs": {
         "it": "NUOVA SPLASH SCREEN ANIMATA\nAd ogni apertura dell'app, goditi la nuova animazione di OctoGram! PS: se stai utilizzando Android 13+ ed hai le icone adattive attive, tutto sarà perfettamente in tema!\n\n\"NON CHIEDERE CONFERMA\" NELLE IMPOSTAZIONI BROWSER\nOra puoi scegliere, nelle impostazioni del browser Telegram, quali sono i domini \"sicuri\" per i quali Telegram non chiederà conferma prima dell'apertura.\n\nNUOVE ICONE SOLAR (e modalità \"ICONE MEME\")\nScopri le nuove icone Solar, da oggi disponibili nelle opzioni sperimentali! PS: per te che stai installando una beta c'è anche un easter egg - prova la modalità \"icone meme\"!\n\nCARATTERISTICHE MINORI\n- Abbiamo migliorato l'anteprima del popup per la selezione dello stile dei checkbox e degli switch.\n- Nella sezione camera, ogni singolo camera type selezionato ha la sua descrizione.",
@@ -358,11 +358,11 @@
       "versionCode": 3506,
       "sticker": 138,
       "files": {
-        "x86_64": 143,
         "universal": 139,
-        "x86": 142,
         "arm64-v8a": 140,
-        "arm-v7a": 141
+        "arm-v7a": 141,
+        "x86": 142,
+        "x86_64": 143
       },
       "localized_changelogs": {
         "it": "MIGLIORE GESTIONE DELLA CAMERA\nOltre alla possibilità di scegliere CameraX per le tue fotografie, puoi anche scegliere di usare Camera2. Scegli l’opzione più adatta in base al supporto del tuo dispositivo.\n\nNUOVE OPZIONI SPERIMENTALI\nOra puoi:\n- centrare il titolo delle schermate dell’app\n- selezionare lo stile preferito degli switch (Default / Google / OneUI (old) / OneUI (new))\n- selezionare lo stile preferito dei checkbox (Default / Arrotondato / Trasparente)\n\nMIGLIORE SUPPORTO AL BROWSER DI TELEGRAM\nOra puoi aggiungere il browser come elemento del drawer oppure come opzione preferita nella parte alta.\nInoltre, tutte le pagine delle impostazioni di OctoGram vengono ora aperte nel browser di Telegram, se attivo.\n\nNUOVI EFFETTI\nScopri la nuova animazione che si trova nella homepage delle impostazioni di OctoGram.\nC’è un easter egg!",
@@ -375,11 +375,11 @@
       "versionCode": 3500,
       "sticker": 105,
       "files": {
-        "x86_64": 110,
         "universal": 106,
-        "x86": 109,
         "arm64-v8a": 107,
-        "arm-v7a": 108
+        "arm-v7a": 108,
+        "x86": 109,
+        "x86_64": 110
       },
       "localized_changelogs": {
         "it": "Questa versione include diverse risoluzioni di bug e crash.",
@@ -392,11 +392,11 @@
       "versionCode": 3497,
       "sticker": 97,
       "files": {
-        "x86_64": 102,
         "universal": 98,
-        "x86": 101,
         "arm64-v8a": 99,
-        "arm-v7a": 100
+        "arm-v7a": 100,
+        "x86": 101,
+        "x86_64": 102
       },
       "localized_changelogs": {
         "it": "RIORGANIZZAZIONE COMPLETA DELLE IMPOSTAZIONI\nStiamo lavorando a una riorganizzazione completa del menu delle impostazioni di OctoGram. La maggior parte dei cambiamenti è già visibile in questa versione stabile, altri arriveranno nella prossima versione.\nAd esempio, il menu dell'aspetto è ora diviso in 3 sezioni principali: \"Chat\", \"Cassetto\", \"Elementi del menu contestuale\".\nMaggiori dettagli in Impostazioni =\u003e Impostazioni di OctoGram =\u003e Aspetto.\n\nCASSETTO PERSONALIZZABILE E ELEMENTI RIORGANIZZABILI\nIl cassetto è ora più personalizzabile che mai. Per quanto riguarda la parte di intestazione del cassetto:\n- si può scegliere lo sfondo (e lo si può scurire o sfocare con una percentuale a piacere),\n- potete nascondere l'immagine del profilo (e puoi anche impostarla come sfondo dell'intera intestazione),\n- è possibile scegliere l'opzione preferita che verrà mostrata al posto dell'icona di modifica del tema.\nInoltre, ora è possibile riorganizzare tutti gli elementi del cassetto a proprio piacimento.\n\nLA NAVIGAZIONE ALTERNATIVA È ORA MOLTO PIÙ PERSONALIZZABILE\nLa navigazione alternativa è stata completamente rinnovata ed è ora completamente personalizzabile. \nÈ ora possibile scegliere la fluidità di tutte le animazioni e se attivare alcuni effetti aggiuntivi nella parte superiore delle schermate (barra delle azioni).\n\nCARATTERISTICHE MINORI\n- È ora possibile scegliere i casi in cui gli aggiornamenti verranno scaricati automaticamente. È possibile gestire i download automatici in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aggiornamenti.\n- Forzare l'interfaccia dello smartphone sul tablet o viceversa. Ora in modo più granulare in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n- La funzione \"Traduci prima di inviare\" ora ricorda la lingua selezionata ed è disponibile in qualsiasi campo di messaggio dell'app.\n- Ora tutte le opzioni di OctoGram fanno parte della ricerca nelle impostazioni, rendendo più facile trovare qualsiasi opzione in qualsiasi menu.",
@@ -409,11 +409,11 @@
       "versionCode": 3475,
       "sticker": 79,
       "files": {
-        "x86_64": 84,
         "universal": 80,
-        "x86": 83,
         "arm64-v8a": 81,
-        "arm-v7a": 82
+        "arm-v7a": 82,
+        "x86": 83,
+        "x86_64": 84
       },
       "localized_changelogs": {
         "it": "TRADUCI I TUOI MESSAGGI PRIMA DELL'INVIO\nMantieni premuto sul bottone invio per tradurre il tuo messaggio in una lingua coerente con la chat.\nSe vuoi cambiare lingua, mantieni premuto sul bottone traduci nel popup che appare.\n\nMAGGIORI INFORMAZIONI SU UN DATACENTER\nPremi su un datacenter nella sezione Stato Datacenter per visualizzare alcune informazioni aggiuntive, come ultimo momento di down o ultimo momento di lag.\n\nFUNZIONALITÀ MINORI\n- Yandex ora supporta \"Mantieni formattazione\".\n- Nella sezione dispositivi ora appare un logo personalizzato vicino alle sessioni di OctoGram.\n- Risolti diversi crash e problemi minori.",
@@ -426,11 +426,11 @@
       "versionCode": 3465,
       "sticker": 58,
       "files": {
-        "x86_64": 63,
         "universal": 59,
-        "x86": 62,
         "arm64-v8a": 60,
-        "arm-v7a": 61
+        "arm-v7a": 61,
+        "x86": 62,
+        "x86_64": 63
       },
       "localized_changelogs": {
         "it": "**- Aggiornamenti OTA in tempo reale**\nOra puoi aggiornare il tuo client direttamente dalle impostazioni! Maggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aggiornamenti.\n👀 Inoltre, puoi gestire gli aggiornamenti automatici per tenerti al passo con l'ultimo aggiornamento dell'app.\n\n**- Traduttore personalizzabile per i tuoi messaggi**\nOra puoi personalizzare la traduzione integrata nell'app nel migliore dei modi con nuove opzioni. Maggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Traduttore.\nNello specifico:\n- 💪 Modalità: scegli come il client farà apparire il testo tradotto\n- 🗺 Fornitore: scegli quale fornitore gestirà la traduzione del messaggio\n- 📁 Formalità: scegli quanto formale deve essere il testo tradotto (disponibile solo con DeepL)\n- 👀 Mantieni formattazione: scegli se applicare la formattazione al messaggio tradotto\n\n**- 13 filtri in più per una ricerca granulare**\nOra puoi aggiungere, nella fase di ricerca, un filtro per avere una ricerca più precisa. Scegli tra: 🖼 Foto, 📷 Video, 🎤 Messaggi vocali, 📷 Messaggi video, 👁 File, 🎞 Musica, 🔗 link e molto altro.\n\n**- Sincronizza il risparmio energetico con il dispositivo**\nOra puoi scegliere di attivare la modalità di risparmio energetico di OctoGram in contemporanea con l'attivazione del risparmio energetico sul tuo dispositivo. Maggiori dettagli in Impostazioni =\u003e Risparmio Energetico.\n\n**- Funzionalità minori**\nSeleziona l'azione predefinita del pulsante emoji al clic. Puoi gestirla in Impostazioni =\u003e Impostazioni OctoGram =\u003e Generale =\u003e Azione pulsante emoji.\nAggiunto il pulsante \"Archivia\" nell'anteprima delle chat\nNascondi i messaggi fissati con un clic prolungato\nAggiunto il bitrate nei dettagli del video",
@@ -443,11 +443,11 @@
       "versionCode": 3455,
       "sticker": 40,
       "files": {
-        "x86_64": 45,
         "universal": 41,
-        "x86": 44,
         "arm64-v8a": 42,
-        "arm-v7a": 43
+        "arm-v7a": 43,
+        "x86": 44,
+        "x86_64": 45
       },
       "localized_changelogs": {
         "en": "We’re introducing a new beta version of OctoGram. This is the first update released as OTA.\n\nSpecifically, in this version you will find:\n- Fixed crash when long pressing on ads\n- Fixed copy image button in restricted groups"
