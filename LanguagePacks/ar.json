@@ -905,7 +905,7 @@
     "TranslatorProviderTelegramDefault": "Default",
     "TranslatorProviderTelegramDevice": "Device",
     "TranslatorProviderTelegramOptions": "Telegram Options",
-    "TranslatorProviderTelegramOptions_Desc": "If enabled, the app follows Telegram's default translation. Telegram developers can choose to use ChatGPT, Google Translate as appropriate and this choice is in no way dependent on OctoGram. It's the default option and is recommended for most users.",
+    "TranslatorProviderTelegramOptions_Desc": "عند تفعيل هذه المِيزة، يتبع التطبيق تَرْجَمَة تيلي جرام الافتراضية. يمكن لمطوري تيلي جرام اختيار استخدام ChatGPT و Google Translate حسب الحاجة، وهذا الخِيار لا يعتمد على OctoGram. إنه الخِيار الافتراضي ويُنصح به لمعظم المستخدمين.",
     "TranslatorProviderUnsuggested": "لا يدعم اللغة المحددة حاليًا.",
     "TranslatorProviderUnsupported": "اللغة المحددة حاليًا (%s) غير مدعومة من قبل الموفر المحدد",
     "TranslatorProviderUnsupportedDialogs": "تم تغيير لغة الترجمة المستهدفة لبعض الدردشات لأن اللغة المحددة مسبقًا غير مدعومة من قبل الموفر المحدد.",
