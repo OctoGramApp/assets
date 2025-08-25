@@ -36,6 +36,18 @@
 			- Contacts: is used when choosing to synchronise contacts (option offered when first opening and can be deactivated from the Privacy and Security settings)</body>
 	</card>
 	<card>
+		<title>AI features and data processing</title>
+		<body>OctoGram offers optional AI-powered features. These are not enabled by default and require explicit user activation.
+
+			By enabling AI options, the app may send requests to external AI services such as Gemini, OpenRouter, and ChatGPT. These requests occur only and exclusively when you use one of the AI functionalities, for example by pressing a button that requires AI assistance. OctoGram will never automatically send chat content to AI services without your action.
+
+			Depending on the feature used, shared data may include text messages or media (such as images or voice notes). However, this only happens after your authorization and direct interaction. OctoGram does not independently transmit chat data to AI services.
+
+			Where possible, OctoGram avoids sending sensitive content and minimizes the information transmitted, limiting it to what is strictly necessary for the requested AI feature.
+
+			Your decision to enable or disable AI features is entirely optional and does not affect the core functionality of the app.</body>
+	</card>
+	<card>
 		<title>Log data (and crash log)</title>
 		<body>OctoGram will never send data automatically to the server. Sending the data is only in your hands.
 			
@@ -48,7 +60,7 @@
 			- the language applied to the device from the system settings
 			- the presence or absence of Google Play Services
 			- the entire OctoGram settings configuration
-			- the error that caused the crash
+			- the error ("exception") that caused the crash
 			
 			OctoGram will never share your phone number, IP or other similar data via the crash log.</body>
 	</card>
@@ -71,6 +83,7 @@
 			- September 01, 2023: first publication and revision
 			- September 7, 2023: enforcement of privacy policy
 			- February, 9, 2025: updated domain-name
+			- August, 24, 2025: added AI features section
 		</body>
 	</card>
 </cards>
