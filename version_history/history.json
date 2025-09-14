@@ -15,6 +15,23 @@
   },
   "versions": [
     {
+      "version": "3.4.3",
+      "versionCode": 3783,
+      "sticker": 379,
+      "files": {
+        "universal": 380,
+        "arm64-v8a": 381,
+        "arm-v7a": 382,
+        "x86": 383,
+        "x86_64": 384
+      },
+      "localized_changelogs": {
+        "en": "📰 NEW FEATURES\n- You can now enable Material Design 3 styling for new chat actions. (Settings → OctoGram Settings → Appearance)\n- AI Features now display a set of quick shortcuts to help you act faster. You can disable them anytime from the three-dots menu.\n- The message details menu has been redesigned and now includes several new options.\n- You can now rearrange the in-app search options according to your preferences. (Settings → OctoGram Settings → General)\n\n🧩 MINOR FEATURES\n- You can now choose between \"take photo/video\" options while using system camera.\n- You can now translate text while editing messages.",
+        "it": "📰 NUOVE FUNZIONI\n- Ora puoi abilitare lo stile Material Design 3 per le nuove azioni di chat. (Impostazioni → Impostazioni OctoGram → Aspetto)\n- Le funzioni AI ora mostrano una serie di scorciatoie rapide per agire più velocemente. Puoi disattivarle in qualsiasi momento dal menu con i tre puntini.\n- Il menu dei dettagli del messaggio è stato ridisegnato e ora include diverse nuove opzioni.\n- Ora puoi riordinare le opzioni di ricerca nell’app in base alle tue preferenze. (Impostazioni → Impostazioni OctoGram → Generali)\n\n🧩 FUNZIONI MINORI\n- Ora puoi scegliere tra le opzioni \"scatta foto\" e \"registra video\" quando utilizzi la fotocamera di sistema.\n- Ora puoi tradurre il testo durante la modifica dei messaggi."
+      },
+      "beta": false
+    },
+    {
       "version": "3.4.1",
       "versionCode": 3776,
       "sticker": 361,
