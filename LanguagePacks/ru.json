@@ -491,7 +491,7 @@
     "ForcePacmanAnimation_Desc": "Анимация Pac-Man при архивировании чата",
     "FormatTimeWithSeconds": "Время формата с секундами",
     "FormatTimeWithSeconds_Desc": "10:20 &gt; 10:20:22",
-    "FormatterDay12HSec": "ч:мм:сс а",
+    "FormatterDay12HSec": "h:mm:ss a",
     "FormatterDay24HSec": "HH:mm:ss",
     "ForwardDate": "Forward Date",
     "ForwardText": "Forward Text",
