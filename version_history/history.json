@@ -15,6 +15,23 @@
   },
   "versions": [
     {
+      "version": "3.4.4 Beta",
+      "versionCode": 3785,
+      "sticker": 385,
+      "files": {
+        "universal": 386,
+        "arm64-v8a": 387,
+        "arm-v7a": 388,
+        "x86": 389,
+        "x86_64": 390
+      },
+      "localized_changelogs": {
+        "en": "- You can now select the contrast level of the Monet theme from the settings\n- GPU blur is now also active in power saving mode when \u0026#34;Force Chat Blur\u0026#34; is enabled (Android 12+)\n- Fixed an issue with the story publishing limit.\n- Bug fixes, crash fixes, and other improvements",
+        "it": "- Ora puoi selezionare il livello del contrasto del tema Monet dalle impostazioni\n- La sfocatura tramite GPU ora è attiva anche in modalità risparmio energetico quando \u0026#34;Forza sfocatura chat\u0026#34; è attivo (Android 12+)\n- Risolto un problema riguardante il limite di storie pubblicabili.\n- Correzioni di bug, crash e altri miglioramenti"
+      },
+      "beta": true
+    },
+    {
       "version": "3.4.3",
       "versionCode": 3783,
       "sticker": 379,
