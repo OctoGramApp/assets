@@ -15,6 +15,23 @@
   },
   "versions": [
     {
+      "version": "3.5.0 Beta",
+      "versionCode": 3790,
+      "sticker": 409,
+      "files": {
+        "universal": 410,
+        "arm64-v8a": 411,
+        "arm-v7a": 412,
+        "x86": 413,
+        "x86_64": 414
+      },
+      "localized_changelogs": {
+        "en": "- You can now enable new MD3 containers in all the app. You can discover more in Settings =\u0026gt; OctoGram Settings =\u0026gt; Experimental options.\n- You can now choose some rapid actions related on device on-shake behavior.\n- You can now choose a new circular style for chat actions.\n- You can now customize the prompt the app uses for AI chat context.\n- Better resources use and stability improvements due to use of Kotlin Coroutines instead of Java Threads.\n- You can now install custom emoji packs directly from messages context menu.\n- Monet themes accent now use system accent.\n- Bug fixes, crash fixes, and other improvements",
+        "it": "- Ora è possibile abilitare i nuovi container MD3 in tutta l\u0026#39;app. Puoi scoprire di più in Impostazioni =\u0026gt; Impostazioni OctoGram =\u0026gt; Opzioni Sperimentali.\n- Ora è possibile scegliere alcune azioni rapide relative al comportamento \u0026#34;scuoti\u0026#34; (on-shake) del dispositivo.\n- Ora è possibile scegliere un nuovo stile circolare per le azioni della chat.\n- Ora è possibile personalizzare il prompt che l\u0026#39;app utilizza per il contesto della chat AI.\n- Migliore utilizzo delle risorse e miglioramenti della stabilità grazie all\u0026#39;uso delle Kotlin Coroutines invece dei Java Threads.\n- Ora è possibile installare pacchetti emoji personalizzati direttamente dal menu contestuale dei messaggi.\n- L\u0026#39;accento dei temi Monet ora utilizza l\u0026#39;accento di sistema.\n- Correzioni di bug, correzioni di crash e altri miglioramenti."
+      },
+      "beta": true
+    },
+    {
       "version": "3.4.4 Beta",
       "versionCode": 3785,
       "sticker": 385,
