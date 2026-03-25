@@ -18,16 +18,30 @@ jobs:
         id: get_commits
         run: |
           PUSHER_USERNAME="${{ github.actor }}"
-          if git rev-list ${{ github.event.before }}..${{ github.sha }} --count >/dev/null 2>&1; then
-            RANGE="${{ github.event.before }}..${{ github.sha }}"
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.sha }}"
+          IS_FORCE="false"
+          MAX=30
+
+          if [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            # New branch: show only the latest commit
+            IS_FORCE="true"
+            MAX=1
+            COUNT=1
+          elif git merge-base --is-ancestor "$BEFORE" "$AFTER" 2>/dev/null; then
+            # Normal push: before is ancestor of after
+            COUNT=$(git rev-list "${BEFORE}..${AFTER}" --count)
           else
-            RANGE="${{ github.sha }}"
+            # Force push: before is NOT ancestor of after (reset --hard case)
+            IS_FORCE="true"
+            MAX=1
+            COUNT=1
           fi
 
-          COUNT=$(git rev-list $RANGE --count)
           if [ "$COUNT" -eq 0 ]; then
             echo "commits=" >> $GITHUB_OUTPUT
             echo "count=0" >> $GITHUB_OUTPUT
+            echo "forced=false" >> $GITHUB_OUTPUT
             exit 0
           fi
 
@@ -37,12 +51,17 @@ jobs:
             FORMAT="‣ %s (<a href='https://github.com/${{ github.repository }}/commit/%H'>%h</a>) by OctoGram-Dev"
           fi
 
-          COMMITS=$(git log $RANGE --pretty=format:"$FORMAT" --max-count=30)
+          if [ "$IS_FORCE" = "true" ]; then
+            COMMITS=$(git log "${AFTER}" --pretty=format:"$FORMAT" --max-count=$MAX)
+          else
+            COMMITS=$(git log "${BEFORE}..${AFTER}" --pretty=format:"$FORMAT" --max-count=$MAX)
+          fi
 
           echo "commits<<EOF" >> $GITHUB_OUTPUT
           echo "$COMMITS" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
           echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "forced=$IS_FORCE" >> $GITHUB_OUTPUT
 
       - name: Send message on Telegram
         if: success() && steps.get_commits.outputs.count != '0'
@@ -57,4 +76,4 @@ jobs:
 
             ${{ steps.get_commits.outputs.commits }}
 
-            🔨 <a href='https://github.com/${{ github.repository }}/compare/${{ github.event.before }}...${{ github.sha }}'>${{ steps.get_commits.outputs.count }} new commit(s)</a>
+            🔨 ${{ steps.get_commits.outputs.forced == 'true' && format('<a href=''https://github.com/{0}/commit/{1}''>{2} new commit(s)</a>', github.repository, github.sha, steps.get_commits.outputs.count) || format('<a href=''https://github.com/{0}/compare/{1}...{2}''>{3} new commit(s)</a>', github.repository, github.event.before, github.sha, steps.get_commits.outputs.count) }}
