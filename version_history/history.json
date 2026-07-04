@@ -16,6 +16,22 @@
   "versions": [
     {
       "version": "3.6.0",
+      "versionCode": 3821,
+      "sticker": 434,
+      "files": {
+        "universal": 435,
+        "arm64-v8a": 436,
+        "arm-v7a": 437,
+        "x86": 438,
+        "x86_64": 439
+      },
+      "localized_changelogs": {
+        "en": "📰 NEW FEATURES\n- Rebuilt bottom navigation bar after upstream drawer removal, with full customization: draggable, addable and removable tabs, custom long-press and double-tap actions, icon styles (tg://experimental/navbar?t=navBarStyle), option to disable swipe gesture (tg://experimental/navbar?t=navBarSwapGesture), and improved expressive tab rendering (click here tg://experimental/navbar).\n- You can now hide the navigation bar completely (click here tg://experimental/navbar?t=hideNavBar).\n- Added support for reordering the three-dots overflow menu in the chat list, with custom dividers, submenus, and an account switcher entry (click here tg://general \u0026gt; Customize ChatListMenu).\n- New Quick Share settings: pinned chats bar, max target slider, \"Always include Saved Messages\" toggle, fallback suggestions mode.\n- Added Accessibility page with TalkBack-friendly actions, progress announcements, smoother media grid scrolling, and improved profile labeling (click here tg://accessibility/).\n- Rewritten Gemini client using direct REST streaming API (ChatGPT, OpenRouter, Gemini).\n- Added experimental translation provider using Google internal endpoints.\n\n🧩 MINOR FEATURES\n- New toggles: force HQ photo sending, hide search button in channels, disable glass effect, hide popup gaps, count mentions in muted folders.\n- Reworked Monet color generation system.\n- Settings export/import improved with indexed property map.\n- Bug fixes and general improvements."
+      },
+      "beta": true
+    },
+    {
+      "version": "3.6.0",
       "versionCode": 3820,
       "sticker": 428,
       "files": {
