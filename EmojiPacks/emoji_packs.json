@@ -13,8 +13,8 @@
         "name": "Blob (by Google)",
         "version": 4,
         "id": "blob",
-        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/google/android-7.1.png?v=d8aef94f9f3a70acf9958d88155940582be5974784a04517a865194bba6921b0",
-        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/google/android-7.1.zip?v=d8aef94f9f3a70acf9958d88155940582be5974784a04517a865194bba6921b0",
+        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/blob.png?v=d8aef94f9f3a70acf9958d88155940582be5974784a04517a865194bba6921b0",
+        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/blob.zip?v=d8aef94f9f3a70acf9958d88155940582be5974784a04517a865194bba6921b0",
         "file_size": 15295313,
         "emoji_count": 1911,
         "md5": "d8aef94f9f3a70acf9958d88155940582be5974784a04517a865194bba6921b0"
@@ -33,8 +33,8 @@
         "name": "Fluent (by Microsoft)",
         "version": 16,
         "id": "fluent",
-        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/microsoft-teams.png?v=737485e9435c7f704bcd8b3a203db3a4dc8e2ef6619270def1259d1f0f7fb69c",
-        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/microsoft-teams.zip?v=737485e9435c7f704bcd8b3a203db3a4dc8e2ef6619270def1259d1f0f7fb69c",
+        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/fluent.png?v=737485e9435c7f704bcd8b3a203db3a4dc8e2ef6619270def1259d1f0f7fb69c",
+        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/fluent.zip?v=737485e9435c7f704bcd8b3a203db3a4dc8e2ef6619270def1259d1f0f7fb69c",
         "file_size": 19282877,
         "emoji_count": 3087,
         "md5": "737485e9435c7f704bcd8b3a203db3a4dc8e2ef6619270def1259d1f0f7fb69c"
@@ -43,8 +43,8 @@
         "name": "Fluent 3D (by Microsoft)",
         "version": 16,
         "id": "fluent3d",
-        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/microsoft-3D-fluent.png?v=a95163f45cc814002ca250380c743052dcc5960077288d8189e1d057fa73aa09",
-        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/microsoft-3D-fluent.zip?v=a95163f45cc814002ca250380c743052dcc5960077288d8189e1d057fa73aa09",
+        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/fluent3d.png?v=a95163f45cc814002ca250380c743052dcc5960077288d8189e1d057fa73aa09",
+        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/fluent3d.zip?v=a95163f45cc814002ca250380c743052dcc5960077288d8189e1d057fa73aa09",
         "file_size": 19409506,
         "emoji_count": 3328,
         "md5": "a95163f45cc814002ca250380c743052dcc5960077288d8189e1d057fa73aa09"
