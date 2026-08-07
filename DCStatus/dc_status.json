@@ -2,41 +2,41 @@
     "status": [
         {
             "dc_id": 1,
-            "ping": 125,
-            "dc_status": 2,
-            "last_down": 1785722780,
-            "last_lag": 1785723505
+            "ping": 134,
+            "dc_status": 1,
+            "last_down": 1786138205,
+            "last_lag": 1786138246
         },
         {
             "dc_id": 2,
-            "ping": 41,
+            "ping": 38,
             "dc_status": 1,
-            "last_down": 1785722780,
-            "last_lag": 1785693233
+            "last_down": 1786138205,
+            "last_lag": 1786138246
         },
         {
             "dc_id": 3,
-            "ping": 127,
-            "dc_status": 2,
-            "last_down": 1785722780,
-            "last_lag": 1785723505
+            "ping": 150,
+            "dc_status": 1,
+            "last_down": 1786138205,
+            "last_lag": 1786138246
         },
         {
             "dc_id": 4,
-            "ping": 39,
+            "ping": 44,
             "dc_status": 1,
-            "last_down": 1785722780,
-            "last_lag": 1785693233
+            "last_down": 1786138205,
+            "last_lag": 1786138216
         },
         {
             "dc_id": 5,
-            "ping": 197,
+            "ping": 177,
             "dc_status": 1,
-            "last_down": 1785722780,
-            "last_lag": 1785693233
+            "last_down": 1786138205,
+            "last_lag": 1786138216
         }
     ],
-    "last_refresh": 1785723505,
-    "refresh_in_time": 35,
+    "last_refresh": 1786138275,
+    "refresh_in_time": 45,
     "is_refreshing": false
 }
